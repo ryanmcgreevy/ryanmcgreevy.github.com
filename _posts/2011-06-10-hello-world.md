@@ -3,6 +3,6 @@ layout: post
 title: Hello World!
 ---
 
-{{ post.title }}
+{{ page.title }}
 
 Hello World!
