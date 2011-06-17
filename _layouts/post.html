@@ -2,9 +2,11 @@
 layout: default
 ---
 <div id="post">
+  <h2><a href="{{ page.url }}"> {{ page.title }}</a></h2>
 {{ content }}
 </div>
 
+<!--
 <div id="related">
   <h2>Related Posts</h2>
   <ul class="posts">
@@ -13,7 +15,7 @@ layout: default
     {% endfor %}
   </ul>
 </div>
-
+-->
 <div id="disqus_thread"></div>
 <script type="text/javascript">
     /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
