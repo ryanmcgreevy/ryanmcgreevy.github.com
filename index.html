@@ -5,7 +5,7 @@ title: Ryan McGreevy
 {% assign first_post = site.posts.first %}
 <div class="post">
   <div class="header">
-    <h3><a href="{{ first_post.url }}">{{ first_post.title }}</a></h3>
+    <h3><a href="{{ first_post.url }}">{{ first_post.title }}</a>  <g:plusone size="small" href="{{ first_post.url }}"></g:plusone></h3>
     <div class="date"> {{ first_post.date | date_to_string }} </div>
   </div>
   <div class="content">
