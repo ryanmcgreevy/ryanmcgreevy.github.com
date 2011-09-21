@@ -13,7 +13,7 @@ are launched in parallel and clustered, leveraging the elastic nature of ec2.  I
 on ec2 using <a href="http://www.ks.uiuc.edu/Research/namd/">NAMD</a>, a molecular dynamics software which I help develop.
 
 I ran basic MD simulations on two different systems: Thioredoxin reductase (4,371 atom protein, 45,750 atoms solvated) and
-a nitrilase (87,084 atom protein, 468,429 atoms solvated). I ran the simulations on single CPU only and GPU instances to
+a nitrilase (87,084 atom protein, 468,429 atoms solvated). I ran the simulations on individual CPU only and GPU instances to
 illustrate the benefits of GPU acceleration, and also across small clusters of CPU only instances to demonstrate the
 scaling across nodes (testing the 10Gb interconnect as well).  
 <img src="/thionitr.png" height=404 width=398/>
