@@ -16,7 +16,7 @@ I ran basic MD simulations on two different systems: Thioredoxin reductase (4,37
 a nitrilase (87,084 atom protein, 468,429 atoms solvated). I ran the simulations on single CPU only and GPU instances to
 illustrate the benefits of GPU acceleration, and also across small clusters of CPU only instances to demonstrate the
 scaling across nodes (testing the 10Gb interconnect as well).  
-<img src="/thionitr.png" height=95% width=90%/>
+<img src="/thionitr.png" height=95% width=95%/>
 
 It is obvious from these graphs how software can benefit from GPU acceleration, especially with two NVIDIA Teslas
 at its disposal.  As shown in the thioredoxin results, the speed advantage from a single GPU instance cannot
