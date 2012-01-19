@@ -1,0 +1,9 @@
+---
+layout: post
+title: Arduino Automatic Toilet Flusher
+---
+
+I recently decided to learn more about microcontrollers and electronics in general.  I took a robotics class in high school using, I think, some sort of BASIC stamp platform.  Then in college my senior project involved writing genetic algorithm based pathfinding AI for an <a href="http://www.abotics.com/open_robot.htm">Open-Robot</a>.  I handled the AI while my partner built the hardware and embedded code.  The high school class was too long ago and I wasn't very involved in the hardware side of my senior project, so I was basically starting fresh.
+
+I have seen a lot of arduino hacks around the internet so I purchased the "Inventor's Kit" from <a href="http://www.sparkfun.com">Sparkfun</a> and an electronics toolkit from <a href="http://www.adafruit.com">Adafruit</a>.  I was one of the kids that would get halfway through a lego instruction book only to throw it aside and start building my own thing.In keeping with this characteristic I only made it a few examples into the inventor's kit before thinking of what I could do on my own.  I've always wanted to install some home automation and somehow the idea of an automatic toilet came to mind.  I realized I could easily throw it together with the arduino and servo from the kit and an IR rangefinder I purchased separately from adafruit.  I threw everything into two project boxes from Radioshack and powered it with a 9V battery switch I soldered up.  The code is pretty simple and can be found on <a href="https://github.com/ryanmcgreevy/Arduino-Automatic-Toilet-Flusher">GitHub</a>.  A quick video of the flusher in action and a little peek at the circuitsis below.  With my first arduino project done and some new parts on the way, I look forward to my next one!
+<iframe width="560" height="315" src="http://www.youtube.com/embed/4k899QWsJwI" frameborder="0" allowfullscreen></iframe>
