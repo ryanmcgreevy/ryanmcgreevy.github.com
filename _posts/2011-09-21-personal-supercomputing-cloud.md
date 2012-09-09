@@ -35,7 +35,7 @@ click of a button.
 Granted, once you start calculating the costs of running even a single GPU instance for a full day (about $50), the money
 seemingly adds up quickly. What needs to be considered, however, is not just the upfront per hour cost, but also all of the
 savings resulting from having amazon do all of the hardware work. Using ec2, you can literally launch an 8-node cluster
-with the click of a single button.  You do not need to worry about privisioning hardware, setting up your own cluster,
+with the click of a single button.  You do not need to worry about provisioning hardware, setting up your own cluster,
 paying for the electricity and maintaining every hardware component that will undoubtedly fail at some point. Setting
 up a basic HPC cluster can be accomplished by almost anyone within just a few minutes, start to finish. Below you can
 see a video from Amazon doing just this, even running NAMD!
