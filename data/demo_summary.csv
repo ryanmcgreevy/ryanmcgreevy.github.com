@@ -1,0 +1,1692 @@
+"Year","Major_Name","perc_Men","perc_Women","perc_American","perc_Total"
+4,"Accountancy ",53.4,46.5,87.2,3.04
+4,"Actuarial Science ",65.5,34.5,86.6,0.587
+4,"Advertising ",22.8,77.2,94,0.676
+4,"Aero & Astro Engineering ",82.9,16.9,92.6,1.1
+4,"African Studies ",40,60,90,0.0253
+4,"Agr & Consumer Economics ",58.8,41.2,35.3,0.215
+4,"Agr & Environmental Cmc & Educ ",33,67,100,0.283
+4,"Agr Engineering & Agr Science ",86.7,13.3,97.8,0.114
+4,"Agribusiness, Farm & Financial ",68.9,30.4,98.3,0.724
+4,"Agricultural Economics ",100,0,0,0.00253
+4,"Agricultural Education ",0,100,100,0.0253
+4,"Agricultural Engineering ",81.9,18.1,77.7,0.238
+4,"Animal Sciences ",27.1,72.9,96.8,1.5
+4,"Anthropology ",31.4,68.6,89,0.483
+4,"Applied Mathematics ",51.5,48.5,24.2,0.0835
+4,"Architectural Studies ",56.3,43.5,96.3,1.38
+4,"Architecture ",61.9,38.1,80.2,0.511
+4,"Art and Design ",51.1,48.9,93.3,0.114
+4,"Art Education ",17,83,93.4,0.268
+4,"Art History ",12,88,88,0.0633
+4,"Asian Studies ",20,80,30,0.0253
+4,"Astronomy ",51.4,48.6,62.9,0.177
+4,"Atmospheric Sciences ",68.3,31.7,53.7,0.104
+4,"Audiology ",0,100,100,0.0127
+4,"Aviation Human Factors ",93.7,6.35,98.4,0.478
+4,"Biochemistry ",49.2,50.5,83,0.833
+4,"Bioengineering ",73.7,26.3,97.4,0.0962
+4,"Biology ",43.7,56.2,96,3.06
+4,"Biophysics ",100,0,100,0.00253
+4,"Biophysics & Computnl Biology ",69,31,39.4,0.18
+4,"Broadcast Journalism ",39.7,60.3,100,0.172
+4,"Business Administration ",50.5,49.5,86,2.18
+4,"Business Administration (MBA) ",73.8,26.2,54.8,0.772
+4,"Cell and Structural Biology ",55.6,44.4,56.7,0.228
+4,"Chemical Engineering ",67.6,32.4,79.9,1.06
+4,"Chemical Physics ",83.3,16.7,50,0.0152
+4,"Chemistry ",55.8,44.2,87.9,1.76
+4,"Civil Engineering ",79.1,20.9,74.5,1.92
+4,"Classical Philology ",71.4,28.6,71.4,0.0177
+4,"Classics ",40,60,100,0.0886
+4,"Communications ",48,52,70,0.127
+4,"Community Health ",20.5,79.5,99.5,0.949
+4,"Comparative Literature ",29.2,70.8,56.2,0.121
+4,"Computer Engineering ",92.5,7.55,89.9,1.61
+4,"Computer Science ",88.3,11.5,74.5,3.02
+4,"Consumer and Textile Marketing ",3.03,97,100,0.251
+4,"Crafts ",30,70,96.7,0.0759
+4,"Creative Writing ",51.9,48.1,100,0.0683
+4,"Crop Sciences ",68.2,31.2,82.5,0.39
+4,"Curric Unassigned ",62.6,37.4,94,0.974
+4,"Dance ",14.1,85.9,94.4,0.18
+4,"E Asian Languages & Cultures ",38.6,59.6,68.4,0.144
+4,"Early Childhood Education ",4.41,95.6,98.5,0.172
+4,"Ecology, Ethology, & Evolution ",33.3,66.7,100,0.00759
+4,"Economics ",74,26,73.1,1.95
+4,"Ed Organization and Leadership ",35.8,64.2,98.6,0.375
+4,"Educ Voc Tech ",36.3,63.7,65.9,0.23
+4,"Education General ",9.83,90.2,100,0.747
+4,"Educational Policy Studies ",34.1,65.9,85.6,0.334
+4,"Educational Psychology ",30.5,69.5,51.9,0.332
+4,"Electrical Engineering ",86.1,13.9,69.9,3.65
+4,"Elementary Education ",9.63,90.4,90.4,1.02
+4,"Engineering Mechanics ",80.6,19.4,100,0.182
+4,"Engineering Physics ",83.3,16.7,99,0.258
+4,"English ",33,67,98.2,2.58
+4,"Entomology ",53.1,46.9,75,0.081
+4,"Environ Engr in Civil Engr ",59.5,40.5,35.1,0.187
+4,"Environ Science in Civil Engr ",57.1,42.9,28.6,0.0354
+4,"Executive MBA Program ",100,0,100,0.00253
+4,"Finance ",67.5,32.5,87.2,2.81
+4,"Food Science & Human Nutrition ",23,77,92,1.05
+4,"Forestry ",80,20,100,0.0127
+4,"French ",23.2,76.8,81.1,0.24
+4,"General Curriculum ",43.2,56.6,97.7,9.33
+4,"General Engineering ",80.1,19.9,96.9,1.54
+4,"Geography ",64,36,81.3,0.19
+4,"Geology ",62.8,37.2,82.1,0.197
+4,"German ",42.1,57.9,73.7,0.0481
+4,"Germanic Lang & Lit ",43.8,56.2,100,0.0405
+4,"Graphic Design ",33,67,87.5,0.223
+4,"History ",62.9,37.1,96.9,1.7
+4,"History of Art ",13.6,86.4,96.6,0.149
+4,"Horticulture ",67.6,32.4,100,0.187
+4,"Human & Community Development ",15.4,84.6,69.2,0.0658
+4,"Human Development & Family St ",5.18,94.8,100,0.488
+4,"Human Factors ",50,50,75,0.0101
+4,"Human Res & Industrial Rels ",37.6,62.4,83.2,0.377
+4,"Humanities ",37.5,62.5,81.2,0.0405
+4,"Individual Plans of Study ",0,100,100,0.0101
+4,"Industrial Design ",50.6,49.4,96.5,0.215
+4,"Industrial Engineering ",64.1,35.9,77.2,0.233
+4,"Instrumental Music ",49.1,50.9,91.1,0.283
+4,"Integrative Biology ",43.6,56.4,97.9,0.476
+4,"Interdisciplinary ",46.2,53.8,100,0.0658
+4,"International Studies ",36.5,63.5,97.3,0.645
+4,"Intl, Resource, Consumer Econ ",64.8,35.2,100,0.445
+4,"Italian ",20,80,90,0.0253
+4,"Journalism ",27.3,72.7,90.9,0.0835
+4,"Kinesiology ",36,64,96.5,1.51
+4,"Landscape Architecture ",49.4,50.6,88.6,0.42
+4,"Latin American Studies ",46.7,53.3,93.3,0.038
+4,"Law ",57.3,42.4,93.4,1.79
+4,"Leisure Studies ",62.7,37,94.3,1.02
+4,"Library & Information Science ",29.6,70.4,85.8,0.676
+4,"Linguistics ",38.1,61.9,54.6,0.245
+4,"Materials Science & Engr ",73.5,26.5,74,1.03
+4,"Math & Computer Science ",86.8,12.6,84.9,0.402
+4,"Mathematics ",64.4,35.6,82.1,1.58
+4,"Mechanical Engineering ",88.7,11.3,86.9,2.57
+4,"Media Studies ",25.7,74.3,98,0.256
+4,"Microbiology ",40.3,59.7,72.7,0.195
+4,"Molecular & Integrative Physi ",62.8,37.2,60.5,0.109
+4,"Molecular and Cellular Biology ",42.5,57.5,97.1,1.75
+4,"Molecular&Cell Bio-undeclared ",58.3,41.7,83.3,0.0304
+4,"Music ",43.1,56.9,69.5,0.681
+4,"Music Composition ",91.7,8.33,100,0.0304
+4,"Music Education ",39.4,60.6,98.6,0.526
+4,"Music History ",25,75,100,0.0101
+4,"Musicology ",63.2,36.8,89.5,0.0481
+4,"Natural Res & Env Sciences ",53,47,71.3,0.291
+4,"Natural Resrcs & Environ Sci ",56.4,43.6,100,0.511
+4,"Neuroscience ",49.2,50.8,65.6,0.154
+4,"News-Editorial ",36.7,63.3,100,0.324
+4,"Nondegree-CE ",27.7,69.2,100,0.164
+4,"Nuclear Engineering ",82.6,17.4,78.7,0.392
+4,"Nutritional Sciences ",20,80,74.5,0.139
+4,"Open Studies ",80,20,100,0.0253
+4,"Painting ",41.7,58.3,97.9,0.121
+4,"Philosophy ",77.4,22.6,97.8,0.347
+4,"Photography ",23.8,76.2,100,0.0531
+4,"Physics ",82.6,17.4,72.4,1.24
+4,"Plant Biology ",47.4,52.6,68.4,0.0481
+4,"Political Science ",59.4,40.5,98,2.38
+4,"Portuguese ",50,50,50,0.00506
+4,"Professional Pilot ",87.7,12.3,100,0.164
+4,"Psychology ",27.4,72.6,94.8,3.44
+4,"Regional Planning ",64,36,24,0.0633
+4,"Rehabilitation ",0,100,83.3,0.0152
+4,"Religious Studies ",52.4,47.6,100,0.0531
+4,"Rhetoric ",52.2,47.8,100,0.349
+4,"Russian & E European Studies ",45.5,54.5,63.6,0.0278
+4,"Russian Lang & Literature ",66.7,33.3,100,0.00759
+4,"Sculpture ",47.1,52.9,94.1,0.043
+4,"Secondary & Continuing Educ ",37.7,62.3,67.2,0.309
+4,"Slavic Languages & Literature ",50,50,50,0.00506
+4,"Social Work ",10.1,89.9,96.6,0.752
+4,"Sociology ",33.4,66.6,93.3,0.863
+4,"Spanish ",31.3,68.4,88.1,0.744
+4,"Special Education ",10.7,89.3,86,0.38
+4,"Speech & Hearing Science ",4.47,95.5,95.9,0.736
+4,"Speech Communication ",43,57,98.3,1.17
+4,"Statistics ",54.7,45.3,59.4,0.162
+4,"Statistics & Computer Science ",80,20,80,0.038
+4,"Systems & Entrepreneurial Engr ",87,13,34.8,0.0582
+4,"Teaching of Biological Science ",0,100,100,0.00506
+4,"Teaching of Chemistry ",25,75,100,0.0202
+4,"Teaching of English Sec Lang ",23.2,76.8,39.3,0.142
+4,"Teaching of French ",16.7,83.3,100,0.0152
+4,"Teaching of German ",0,100,100,0.00253
+4,"Teaching of Latin ",75,25,100,0.0101
+4,"Teaching of Mathematics ",100,0,100,0.00253
+4,"Teaching of Spanish ",15.4,84.6,100,0.0658
+4,"Technical Systems Management ",88.8,11.2,98,0.248
+4,"Theatre ",48,52,96.5,0.511
+4,"Theoretical & Applied Mechans ",88.4,11.6,30.4,0.175
+4,"Urban Planning ",51.1,48.9,90.8,0.44
+4,"Veterinary Medicine ",22.4,77.6,99.5,1
+4,"VMS - Veterinary Biosciences ",31.2,68.8,62.5,0.0405
+4,"VMS - Veterinary Pathobiology ",37,63,51.9,0.0683
+4,"VMS-Veterinary Clinical Medcne ",62.1,37.9,51.7,0.0734
+4,"Voice ",19.2,80.8,96.2,0.0658
+5,"Accountancy ",54.5,45.4,84.4,3.11
+5,"Actuarial Science ",67.1,32.9,85.9,0.615
+5,"Advertising ",25.5,74.5,95.1,0.649
+5,"Aero & Astro Engineering ",87.5,12.5,68.8,0.118
+5,"Aerospace Engineering ",85.6,14.4,93.4,0.941
+5,"African Studies ",36.4,63.6,90.9,0.0272
+5,"Agr & Consumer Economics ",59,41,36.1,0.205
+5,"Agr & Environmental Cmc & Educ ",29.1,70.9,100,0.254
+5,"Agr Engineering & Agr Science ",91.9,8.11,97.3,0.0913
+5,"Agribusiness, Farm & Financial ",73.2,26.2,99.7,0.783
+5,"Agricultural Economics ",100,0,100,0.00247
+5,"Agricultural Education ",14.3,85.7,85.7,0.0173
+5,"Agricultural Engineering ",82.8,17.2,77.4,0.23
+5,"Animal Sciences ",27.3,72.7,96,1.48
+5,"Anthropology ",34.8,65.2,89.4,0.511
+5,"Applied Mathematics ",42.9,57.1,22.9,0.0864
+5,"Architectural Studies ",57.7,42.3,94.9,1.32
+5,"Architecture ",56.2,43.3,84.7,0.501
+5,"Art and Design ",52.1,47.9,87.5,0.118
+5,"Art Education ",16,84,93.4,0.262
+5,"Art History ",9.68,90.3,80.6,0.0765
+5,"Asian Studies ",30.8,69.2,46.2,0.0321
+5,"Astronomy ",59.7,40.3,66.7,0.178
+5,"Atmospheric Sciences ",70.3,29.7,56.8,0.0913
+5,"Audiology ",0,100,100,0.00987
+5,"Aviation Human Factors ",91.8,8.2,100,0.452
+5,"Biochemistry ",53.6,46.2,81.4,0.931
+5,"Bioengineering ",67.2,32.8,90.2,0.151
+5,"Biology ",46.3,53.6,95.3,2.64
+5,"Biophysics & Computnl Biology ",69.1,30.9,39.7,0.168
+5,"Broadcast Journalism ",38,62,100,0.195
+5,"Business Administration ",51.5,48.5,85.3,2.35
+5,"Business Administration (MBA) ",71.8,28.2,58.8,0.588
+5,"Cell and Structural Biology ",47.3,52.7,44.6,0.183
+5,"Chemical Engineering ",64.7,35,78.9,0.973
+5,"Chemical Physics ",80,20,70,0.0247
+5,"Chemistry ",59.1,40.9,89.2,1.88
+5,"Civil Engineering ",80.6,19.4,77.4,1.96
+5,"Classical Philology ",71.4,28.6,71.4,0.0173
+5,"Classics ",47.1,52.9,97.1,0.0839
+5,"Communications ",43.1,56.9,64.7,0.126
+5,"Community Health ",22.8,77.2,99.3,1.1
+5,"Comparative Literature ",23.4,76.6,53.1,0.158
+5,"Computer Engineering ",92.4,7.46,90.4,1.39
+5,"Computer Science ",88.6,11.2,72.7,2.63
+5,"Consumer and Textile Marketing ",3.7,96.3,100,0.133
+5,"Crafts ",31.8,68.2,100,0.0543
+5,"Creative Writing ",38.1,61.9,100,0.0518
+5,"Crop Sciences ",65.1,34.2,84.6,0.368
+5,"Curric Unassigned ",60.6,39.1,94.8,0.896
+5,"Dance ",12.1,87.9,92.4,0.163
+5,"E Asian Languages & Cultures ",52.2,47.8,74.6,0.165
+5,"Early Childhood Education ",3.33,96.7,96.7,0.148
+5,"Economics ",75.7,24.3,73.1,2.16
+5,"Ed Organization and Leadership ",37,63,96.9,0.314
+5,"Educ Voc Tech ",33.7,66.3,64.2,0.235
+5,"Education ",33.3,66.7,83.3,0.0148
+5,"Education General ",11.2,88.4,99.3,0.704
+5,"Educational Policy Studies ",30.4,69.6,85.9,0.333
+5,"Educational Psychology ",27.4,72.6,54.8,0.306
+5,"Electrical Engineering ",87,13,70.8,3.47
+5,"Elementary Education ",8.82,91.2,90.2,1.01
+5,"Engineering Mechanics ",80.8,19.2,98.7,0.193
+5,"Engineering Physics ",86.1,13.9,97,0.249
+5,"English ",31.5,68.4,98,2.61
+5,"Entomology ",48.5,51.5,75.8,0.0815
+5,"Environ Engr in Civil Engr ",54.1,45.9,47.5,0.151
+5,"Environ Science in Civil Engr ",64.3,35.7,28.6,0.0346
+5,"Finance ",69.8,29.9,88.6,2.61
+5,"Food Science & Human Nutrition ",24.8,75.2,91.6,1.09
+5,"Forestry ",100,0,100,0.00247
+5,"French ",28.4,71.6,87.3,0.252
+5,"General Curriculum ",44.7,55.2,97.2,9.75
+5,"General Engineering ",81.6,18.4,97,1.54
+5,"Geography ",69.5,30.5,80.5,0.202
+5,"Geology ",63.4,36.6,82.8,0.23
+5,"German ",34.8,65.2,69.6,0.0568
+5,"Germanic Lang & Lit ",56.5,43.5,100,0.0568
+5,"Graphic Design ",28,72,92,0.185
+5,"History ",60.2,39.7,96.1,1.71
+5,"History of Art ",9.62,90.4,96.2,0.128
+5,"Horticulture ",66.7,33.3,100,0.178
+5,"Human & Community Development ",19.4,80.6,80.6,0.0765
+5,"Human Development & Family St ",6.02,93.5,100,0.533
+5,"Human Factors ",50,50,83.3,0.0148
+5,"Human Res & Industrial Rels ",36.2,63.8,82.3,0.348
+5,"Humanities ",71.4,28.6,100,0.0173
+5,"Individual Plans of Study ",40,60,100,0.0123
+5,"Industrial Design ",48,52,93.9,0.242
+5,"Industrial Engineering ",66.7,33.3,77.8,0.2
+5,"Instrumental Music ",42.6,57.4,91,0.301
+5,"Integrative Biology ",45,55,97.2,0.62
+5,"Interdisciplinary ",47.4,52.6,97.4,0.0938
+5,"International Studies ",29,71,95.3,0.783
+5,"Intl, Resource, Consumer Econ ",60.3,39.7,99.4,0.43
+5,"Italian ",20,80,90,0.0247
+5,"Journalism ",35.5,64.5,87.1,0.0765
+5,"Kinesiology ",39.7,60.3,97.3,1.62
+5,"Landscape Architecture ",58.9,41.1,88,0.39
+5,"Latin American Studies ",35.7,64.3,100,0.0346
+5,"Law ",59.4,40.4,92.4,1.65
+5,"Leisure Studies ",61.4,38.3,94.5,1.04
+5,"Library & Information Science ",27.5,72.5,86.2,0.61
+5,"Linguistics ",40.8,59.2,64.1,0.254
+5,"Materials Science & Engr ",75.2,24.8,71.8,0.945
+5,"Math & Computer Science ",91.4,7.81,87.5,0.316
+5,"Mathematics ",64.3,35.7,82.1,1.51
+5,"Mechanical Engineering ",88.2,11.5,86.4,2.6
+5,"Media Studies ",27.9,72.1,96.7,0.301
+5,"Microbiology ",43,57,65.1,0.212
+5,"Molecular & Integrative Physi ",56.8,43.2,48.6,0.0913
+5,"Molecular and Cellular Biology ",40.8,59.1,97.4,1.96
+5,"Molecular&Cell Bio-undeclared ",55.6,44.4,83.3,0.0444
+5,"Music ",45.2,54.8,69.7,0.726
+5,"Music Composition ",88.9,11.1,88.9,0.0222
+5,"Music Education ",44.5,55.5,98.7,0.56
+5,"Music History ",0,100,100,0.00247
+5,"Musicology ",50,50,80,0.0247
+5,"Natural Res & Env Sciences ",51.1,48.9,75.5,0.232
+5,"Natural Resrcs & Environ Sci ",62.2,37.8,99.5,0.484
+5,"Neuroscience ",44.1,55.9,69.5,0.146
+5,"News-Editorial ",38.4,61.6,100,0.309
+5,"Nondegree-CE ",33.7,66.3,100,0.212
+5,"Nuclear Engineering ",85.5,14.5,79.9,0.392
+5,"Nutritional Sciences ",18.9,81.1,71.7,0.131
+5,"Open Studies ",75,25,95,0.0494
+5,"Painting ",33.3,66.7,97.9,0.118
+5,"Philosophy ",76.6,23.4,97.1,0.338
+5,"Photography ",33.3,66.7,100,0.0815
+5,"Physics ",83.4,16.6,70.8,1.19
+5,"Plant Biology ",50,50,75,0.0494
+5,"Political Science ",60.3,39.4,98.3,2.63
+5,"Portuguese ",50,50,50,0.00494
+5,"Professional Pilot ",90.3,9.72,98.6,0.178
+5,"Psychology ",27.7,72.3,94.6,3.4
+5,"Recreation, Sport, and Tourism ",61.1,38.9,97.2,0.0889
+5,"Regional Planning ",57.1,42.9,21.4,0.0691
+5,"Rehabilitation ",16.7,83.3,83.3,0.0148
+5,"Religious Studies ",58.6,41.4,96.6,0.0716
+5,"Rhetoric ",53.7,46.3,100,0.331
+5,"Russian & E European Studies ",66.7,33.3,100,0.0296
+5,"Russian Lang & Literature ",25,75,100,0.00987
+5,"Sculpture ",53.3,46.7,100,0.037
+5,"Secondary & Continuing Educ ",42.9,57.1,62.5,0.276
+5,"Slavic Languages & Literature ",50,50,0,0.00987
+5,"Social Work ",6.57,93.4,96.2,0.713
+5,"Sociology ",33.1,66.9,95.1,1.17
+5,"Spanish ",30.5,69.5,90.3,0.785
+5,"Special Education ",9.55,90.4,89.2,0.388
+5,"Speech & Hearing Science ",4.36,95.6,95,0.736
+5,"Speech Communication ",41.1,58.9,97.8,1.24
+5,"Statistics ",57.1,42.9,62.3,0.19
+5,"Statistics & Computer Science ",90,10,80,0.0247
+5,"Systems & Entrepreneurial Engr ",88.9,11.1,33.3,0.0667
+5,"Teaching of Biological Science ",0,100,100,0.00247
+5,"Teaching of Chemistry ",25,75,100,0.0296
+5,"Teaching of English Sec Lang ",24,76,26,0.123
+5,"Teaching of French ",25,75,87.5,0.0197
+5,"Teaching of German ",50,50,100,0.00494
+5,"Teaching of Latin ",100,0,100,0.00247
+5,"Teaching of Mathematics ",50,50,100,0.00494
+5,"Teaching of Spanish ",11.1,88.9,100,0.0667
+5,"Technical Systems Management ",93.5,6.52,97.8,0.227
+5,"Theatre ",47.2,52.8,97,0.491
+5,"Theoretical & Applied Mechans ",86.6,13.4,37.3,0.165
+5,"Urban Planning ",51.3,48.7,91.1,0.471
+5,"Veterinary Medicine ",22.8,77.2,99.5,0.997
+5,"VMS - Veterinary Biosciences ",33.3,66.7,61.1,0.0444
+5,"VMS - Veterinary Pathobiology ",25,75,66.7,0.0592
+5,"VMS-Veterinary Clinical Medcne ",44.4,55.6,51.9,0.0667
+5,"Voice ",15.8,84.2,100,0.0469
+6,"Accountancy ",54.4,45.3,83.6,2.97
+6,"Actuarial Science ",67.3,32.7,81.1,0.682
+6,"Advertising ",26.8,73.2,94,0.886
+6,"Aero & Astro Engineering ",87.5,12.5,58.3,0.0583
+6,"Aerospace Engineering ",87.3,12.7,92.5,1.03
+6,"African Studies ",55.6,44.4,66.7,0.0219
+6,"Agr & Consumer Economics ",61.9,38.1,83.3,0.816
+6,"Agr & Environmental Cmc & Educ ",24.5,75.5,100,0.238
+6,"Agr Engineering & Agr Science ",90.5,9.52,100,0.102
+6,"Agribusiness, Farm & Financial ",76,23.6,99.5,0.505
+6,"Agricultural Education ",66.7,33.3,66.7,0.00729
+6,"Agricultural Engineering ",81.8,18.2,67,0.214
+6,"American Civilization ",100,0,100,0.00243
+6,"Animal Sciences ",29.5,70.3,95.1,1.5
+6,"Anthropology ",31.1,68.9,91.4,0.539
+6,"Applied Mathematics ",59.3,40.7,22.2,0.0656
+6,"Architectural Studies ",59,41,96.8,1.27
+6,"Architecture ",60.3,39.7,79.3,0.563
+6,"Art and Design ",55,45,85,0.0971
+6,"Art Education ",16.7,83.3,91.7,0.262
+6,"Art Foundation ",38.5,61.5,95.4,0.316
+6,"Art History ",14.3,85.7,85.7,0.085
+6,"Asian Studies ",50,50,70,0.0243
+6,"Astronomy ",59.4,40.6,65.6,0.155
+6,"Atmospheric Sciences ",65.8,34.2,50,0.0923
+6,"Audiology ",0,100,100,0.017
+6,"Aviation Human Factors ",90.2,9.76,100,0.398
+6,"Biochemistry ",53.6,46.4,82.3,0.77
+6,"Bioengineering ",59.4,40.6,87.1,0.245
+6,"Bioinformatics ",50,50,25,0.00971
+6,"Biology ",43.5,56.2,94.2,1.93
+6,"Biophysics & Computnl Biology ",74.6,25.4,33.9,0.143
+6,"Broadcast Journalism ",38.1,61.9,100,0.204
+6,"Business Administration ",50.7,49.3,85,1.83
+6,"Business Administration (MBA) ",71.1,28.6,64.4,0.799
+6,"Cell and Structural Biology ",51.5,48.5,45.6,0.165
+6,"Chemical Engineering ",64,35.8,82.1,1.03
+6,"Chemical Physics ",81.8,18.2,72.7,0.0267
+6,"Chemistry ",60.5,39.4,88.8,2.05
+6,"Civil Engineering ",80.5,19.5,77.8,1.93
+6,"Classical Philology ",50,50,75,0.00971
+6,"Classics ",57.9,42.1,97.4,0.0923
+6,"Communications ",50,50,73.3,0.146
+6,"Community Health ",21.1,78.9,99.6,1.21
+6,"Comparative Literature ",25.8,74.2,58.1,0.151
+6,"Computer Engineering ",92,7.55,90.4,1.16
+6,"Computer Science ",87.8,12,70.2,2.4
+6,"Consumer and Textile Marketing ",3.23,96.8,100,0.0753
+6,"Crafts ",26.1,73.9,95.7,0.0559
+6,"Creative Writing ",40,60,95,0.0486
+6,"Crop Sciences ",68,32,86.3,0.372
+6,"Curric Unassigned ",60.1,39.8,93.2,1.83
+6,"Dance ",10.1,89.9,94.2,0.168
+6,"E Asian Languages & Cultures ",50,50,76.7,0.219
+6,"Early Childhood Education ",0,100,98.1,0.129
+6,"Economics ",74,25.7,72.7,2.35
+6,"Ed Organization and Leadership ",34.6,65.4,99.4,0.435
+6,"Educ Voc Tech ",31.9,68.1,65.2,0.168
+6,"Education ",100,0,100,0.00486
+6,"Education General ",8.79,90.1,98.9,0.221
+6,"Educational Policy Studies ",35.7,64.3,84.5,0.313
+6,"Educational Psychology ",27.3,72.7,59.1,0.321
+6,"Electrical & Computer Engr ",82.8,17.2,47.9,0.396
+6,"Electrical Engineering ",87.4,12.6,71.4,2.9
+6,"Elementary Education ",7.71,92,90.7,0.945
+6,"Engineering Mechanics ",75.8,24.2,100,0.151
+6,"Engineering Physics ",88.7,11.3,96,0.301
+6,"English ",31.7,68.1,98,2.6
+6,"Entomology ",51.4,48.6,75.7,0.0898
+6,"Environ Engr in Civil Engr ",58.6,41.4,41.4,0.141
+6,"Environ Science in Civil Engr ",62.5,37.5,25,0.0389
+6,"Finance ",72,27.9,82.1,2.36
+6,"Food Science & Human Nutrition ",25.6,74.4,91.1,1.01
+6,"French ",24.3,75.7,91,0.27
+6,"General Curriculum ",45.3,54.6,96.8,8.82
+6,"General Engineering ",80.9,19.1,95.5,1.41
+6,"Geography ",62.7,37.3,79.5,0.202
+6,"Geology ",64.9,35.1,83,0.228
+6,"German ",34.8,65.2,78.3,0.0559
+6,"Germanic Lang & Lit ",59.4,40.6,100,0.0777
+6,"Graphic Design ",34.7,65.3,96,0.182
+6,"History ",60.3,39.5,96.6,1.66
+6,"History of Art ",8.33,91.7,95.8,0.117
+6,"Horticulture ",65.3,34.7,100,0.175
+6,"Human & Community Development ",21.4,78.6,75,0.068
+6,"Human Development & Family St ",9.01,91,100,0.539
+6,"Human Factors ",75,25,87.5,0.0194
+6,"Human Res & Industrial Rels ",32.4,67.6,78.8,0.413
+6,"Human Resource Education ",50,50,81.8,0.0534
+6,"Humanities ",37.5,62.5,100,0.0194
+6,"Individual Plans of Study ",77.8,22.2,100,0.0219
+6,"Industrial Design ",54,46,96,0.243
+6,"Industrial Engineering ",71.6,28.4,75.3,0.197
+6,"Instrumental Music ",44.9,54.4,94.1,0.33
+6,"Integrative Biology ",46.5,53.5,98.7,0.731
+6,"Interdisciplinary ",51.3,48.7,94.9,0.0947
+6,"International Studies ",28.7,71.3,93.5,0.864
+6,"Intl, Resource, Consumer Econ ",58.6,41.4,100,0.282
+6,"Italian ",16.7,83.3,83.3,0.0291
+6,"Journalism ",38.5,61.5,84.6,0.0631
+6,"Kinesiology ",38.3,61.7,96.9,1.64
+6,"Landscape Architecture ",55.6,44.4,90.1,0.367
+6,"Latin American Studies ",50,50,100,0.0243
+6,"Law ",61.7,38.2,91.6,1.62
+6,"Leisure Studies ",64.4,35.6,91.9,0.362
+6,"Library & Information Science ",27.1,72.9,86.1,0.646
+6,"Linguistics ",39.5,60.5,69.4,0.301
+6,"Materials Science & Engr ",74.4,25.6,73.4,0.979
+6,"Math & Computer Science ",92.5,6.67,89.2,0.291
+6,"Mathematics ",62.4,37.6,82.5,1.43
+6,"Mechanical Engineering ",88.2,11.6,85.4,2.62
+6,"Media Studies ",34.4,65.6,96.1,0.311
+6,"Microbiology ",42.7,57.3,61.3,0.182
+6,"Molecular & Integrative Physi ",54.3,45.7,51.4,0.085
+6,"Molecular and Cellular Biology ",46.1,53.7,97,2.29
+6,"Molecular&Cell Bio-undeclared ",33.3,66.7,62.2,0.109
+6,"Music ",45.8,53.8,66.5,0.789
+6,"Music Composition ",83.3,16.7,91.7,0.0291
+6,"Music Education ",47,53,98.8,0.614
+6,"Music History ",50,50,100,0.00486
+6,"Musicology ",33.3,66.7,66.7,0.0219
+6,"Natural Res & Env Sciences ",47.5,52.5,73.7,0.24
+6,"Natural Resrcs & Environ Sci ",57.3,42.7,100,0.512
+6,"Neuroscience ",37.9,62.1,70.7,0.141
+6,"News-Editorial ",38.2,61.8,100,0.35
+6,"Nondegree-CE ",28.6,71.4,100,0.17
+6,"Nuclear Engineering ",85.8,14.2,78.4,0.393
+6,"Nutritional Sciences ",24.6,75.4,78.7,0.148
+6,"Open Studies ",81.8,18.2,95.5,0.0534
+6,"Painting ",37,63,97.8,0.112
+6,"Philosophy ",78.8,21.2,97.7,0.321
+6,"Photography ",40.6,59.4,100,0.0777
+6,"Physics ",84,15.8,65.5,1.15
+6,"Plant Biology ",47.8,52.2,73.9,0.0559
+6,"Political Science ",56.7,43.2,97.1,2.71
+6,"Portuguese ",50,50,0,0.00486
+6,"Pre-Early Chld/Elem Ed/Spec Ed ",11.7,88.3,99.5,0.457
+6,"Professional Pilot ",92.4,7.61,97.8,0.223
+6,"Psychology ",28.3,71.6,94.5,3.52
+6,"Recreation, Sport, and Tourism ",59.3,40.3,94.5,0.704
+6,"Regional Planning ",53.8,46.2,30.8,0.0631
+6,"Rehabilitation ",25,75,75,0.00971
+6,"Religious Studies ",65.2,34.8,100,0.0559
+6,"Rhetoric ",46.8,53.2,100,0.265
+6,"Russian & E European Studies ",75,25,100,0.0291
+6,"Russian Lang & Literature ",33.3,66.7,100,0.0146
+6,"Russian, E Eur, Eurasian St ",100,0,100,0.00729
+6,"Sculpture ",58.3,41.7,100,0.0291
+6,"Secondary & Continuing Educ ",35.8,64.2,65.1,0.257
+6,"Slavic Languages & Literature ",50,50,37.5,0.0194
+6,"Social Work ",6.69,93.3,95.3,0.617
+6,"Sociology ",36.3,63.5,95.1,1.24
+6,"Spanish ",26.7,73.3,91.4,0.908
+6,"Special Education ",11,89,89.6,0.374
+6,"Speech & Hearing Science ",3.19,96.5,96.5,0.76
+6,"Speech Communication ",43.1,56.9,97.8,1.44
+6,"Statistics ",57.3,42.7,60,0.182
+6,"Statistics & Computer Science ",81.8,18.2,90.9,0.0267
+6,"Systems & Entrepreneurial Engr ",93.5,6.45,25.8,0.0753
+6,"Teaching of Biological Science ",0,100,100,0.00243
+6,"Teaching of Chemistry ",33.3,66.7,83.3,0.0146
+6,"Teaching of English Sec Lang ",22.2,77.8,42.6,0.131
+6,"Teaching of French ",40,60,80,0.0121
+6,"Teaching of German ",25,75,100,0.00971
+6,"Teaching of Latin ",50,50,100,0.00486
+6,"Teaching of Mathematics ",0,100,100,0.00486
+6,"Teaching of Spanish ",10,90,100,0.0729
+6,"Technical Systems Management ",94.2,4.65,98.8,0.209
+6,"Theatre ",47.3,52.7,96.2,0.452
+6,"Theoretical & Applied Mechans ",85.2,14.8,36.1,0.148
+6,"Urban Planning ",57.9,42.1,91.1,0.491
+6,"Veterinary Medical Science ",0,100,100,0.00243
+6,"Veterinary Medicine ",21.5,78.5,99.5,1
+6,"VMS - Veterinary Biosciences ",38.9,61.1,50,0.0437
+6,"VMS - Veterinary Pathobiology ",29.4,70.6,58.8,0.0413
+6,"VMS-Veterinary Clinical Medcne ",29.6,70.4,51.9,0.0656
+6,"Voice ",19,81,95.2,0.051
+7,"Accountancy ",53,46.3,83.6,2.74
+7,"Actuarial Science ",70.8,29.2,79,0.687
+7,"Advertising ",25.6,74.4,93,0.943
+7,"Aerospace Engineering ",88,12,89,1.18
+7,"African Studies ",36.4,63.6,81.8,0.0269
+7,"Agr & Consumer Economics ",66.5,33.5,91.9,1.39
+7,"Agr & Environmental Cmc & Educ ",23.3,76.7,98.9,0.22
+7,"Agr Engineering & Agr Science ",86.4,13.6,100,0.108
+7,"Agribusiness, Farm & Financial ",79,20,99,0.244
+7,"Agricultural Education ",50,50,100,0.00977
+7,"Agricultural Engineering ",84.8,15.2,66.3,0.225
+7,"Animal Sciences ",29.3,70.5,93.6,1.56
+7,"Anthropology ",33.6,66.4,94.1,0.538
+7,"Applied Mathematics ",64,36,32,0.0611
+7,"Architectural Studies ",54.8,45.2,95.1,1.34
+7,"Architecture ",59.6,40.4,78.8,0.508
+7,"Art and Design ",48.8,51.2,72.1,0.105
+7,"Art Education ",13.9,86.1,90.7,0.264
+7,"Art Foundation ",33.8,66.2,92.8,0.34
+7,"Art History ",18.4,81.6,78.9,0.0929
+7,"Asian Studies ",23.1,76.9,38.5,0.0318
+7,"Astronomy ",62.9,37.1,64.3,0.171
+7,"Atmospheric Sciences ",57.4,42.6,61.7,0.115
+7,"Audiology ",0,100,100,0.0269
+7,"Aviation Human Factors ",91.4,8.59,100,0.398
+7,"Biochemistry ",55.4,44.6,82.3,0.635
+7,"Bioengineering ",57.7,42.3,87.6,0.335
+7,"Bioinformatics ",50,50,25,0.00977
+7,"Biology ",42.8,56.8,94.2,2.22
+7,"Biophysics & Computnl Biology ",71.6,28.4,23.9,0.164
+7,"Broadcast Journalism ",33.3,66.7,100,0.183
+7,"Business Administration ",49.9,49.9,83.1,1.24
+7,"Business Administration (MBA) ",74.1,25.9,70.1,0.907
+7,"Business Process Management ",50,50,100,0.00489
+7,"Cell and Structural Biology ",46.2,53.8,44.6,0.159
+7,"Chemical Engineering ",66.3,33.7,83.5,1.15
+7,"Chemical Physics ",75,25,75,0.0293
+7,"Chemistry ",59.4,40.6,87.4,1.81
+7,"Civil Engineering ",78.8,21.1,78.8,2.03
+7,"Classical Philology ",40,60,80,0.0122
+7,"Classics ",51.4,48.6,94.6,0.0904
+7,"Communications ",42.9,57.1,69.6,0.137
+7,"Community Health ",23.1,76.9,99.1,1.3
+7,"Comparative Literature ",23.2,76.8,64.3,0.137
+7,"Computer Engineering ",91.5,8.06,89.2,1.06
+7,"Computer Science ",87.2,12.6,66.3,2.34
+7,"Consumer and Textile Marketing ",11.1,88.9,100,0.022
+7,"Crafts ",22.7,77.3,100,0.0538
+7,"Creative Writing ",50,50,95,0.0489
+7,"Crop Sciences ",65.8,34.2,84.9,0.357
+7,"Curric Unassigned ",57.5,42.5,93.1,2.46
+7,"Dance ",12.8,87.2,93.6,0.191
+7,"E Asian Languages & Cultures ",44.4,55.6,78.9,0.22
+7,"Early Childhood Education ",0,98.4,100,0.149
+7,"Earth Systems, Env, & Society ",100,0,100,0.00244
+7,"Economics ",73.1,26.5,71.6,2.27
+7,"Ed Organization and Leadership ",34.1,65.9,98.9,0.452
+7,"Education General ",100,0,100,0.00244
+7,"Educational Policy Studies ",34.6,65.4,86.2,0.318
+7,"Educational Psychology ",26.3,73.7,61,0.288
+7,"Electrical & Computer Engr ",86,14,49.1,1.27
+7,"Electrical Engineering ",89.3,10.7,81,1.89
+7,"Elementary Education ",7.36,92.6,90.2,0.897
+7,"Engineering Mechanics ",75.5,24.5,95.9,0.12
+7,"Engineering Physics ",90.3,9.7,97,0.327
+7,"English ",31,68.8,97.9,2.53
+7,"Entomology ",53.1,46.9,87.5,0.0782
+7,"Environ Engr in Civil Engr ",52.4,47.6,38.1,0.154
+7,"Environ Science in Civil Engr ",38.5,61.5,38.5,0.0318
+7,"Finance ",69.3,30.6,78.5,1.92
+7,"Food Science & Human Nutrition ",24.9,75.1,87.2,1.01
+7,"French ",27.1,72.9,89.6,0.235
+7,"General Curriculum ",45.6,54.4,95.9,8.58
+7,"General Engineering ",80.2,19.7,95.5,1.45
+7,"Geography ",64.6,35.4,86.5,0.235
+7,"Geology ",63.7,36.3,82.4,0.222
+7,"German ",33.3,66.7,85.7,0.0513
+7,"Germanic Lang & Lit ",43.8,53.1,100,0.0782
+7,"Graphic Design ",33.3,66.7,94.9,0.191
+7,"History ",62.7,37,97,1.74
+7,"History of Art ",11.9,88.1,90.5,0.103
+7,"Horticulture ",61.3,38.7,98.4,0.152
+7,"Human & Community Development ",18.5,81.5,81.5,0.066
+7,"Human Development & Family St ",7.29,92.7,99,0.469
+7,"Human Factors ",80,20,50,0.0244
+7,"Human Res & Industrial Rels ",31.1,68.9,78,0.433
+7,"Human Resource Education ",42.7,57.3,58.5,0.2
+7,"Humanities ",100,0,100,0.00733
+7,"Individual Plans of Study ",33.3,66.7,100,0.0147
+7,"Industrial Design ",54.9,45.1,91.2,0.249
+7,"Industrial Engineering ",67.8,32.2,66.7,0.213
+7,"Instrumental Music ",46.6,53.4,95.8,0.288
+7,"Integrative Biology ",47.3,52.7,99.3,0.714
+7,"Interdisciplinary ",44.9,55.1,98,0.12
+7,"International Studies ",29.3,70.7,95.1,0.902
+7,"Intl, Resource, Consumer Econ ",54.5,45.5,100,0.134
+7,"Italian ",45.5,54.5,81.8,0.0269
+7,"Jazz Performance ",95.2,4.76,100,0.0513
+7,"Journalism ",53.8,46.2,92.3,0.0635
+7,"Kinesiology ",39.2,60.6,96.9,1.6
+7,"Landscape Architecture ",60.5,39.5,91.8,0.359
+7,"Latin American Studies ",42.9,57.1,100,0.0342
+7,"Law ",58.3,41.7,88.5,1.55
+7,"Leisure Studies ",64.7,35.3,82.4,0.0415
+7,"Library & Information Science ",23.6,76.4,88,0.611
+7,"Linguistics ",38.1,61.9,76.3,0.34
+7,"Management ",0,100,100,0.00244
+7,"Marketing ",33.3,66.7,66.7,0.00733
+7,"Materials Science & Engr ",76.6,23.4,75.4,0.973
+7,"Math & Computer Science ",93.4,6.6,90.6,0.259
+7,"Mathematics ",59,41,81.3,1.35
+7,"Mechanical Engineering ",87.6,12.2,83.1,2.66
+7,"Media Studies ",32.6,67.4,95.8,0.232
+7,"Microbiology ",45.1,54.9,62,0.173
+7,"Molecular & Integrative Physi ",45.9,54.1,54.1,0.0904
+7,"Molecular and Cellular Biology ",49.6,50.3,96.6,2.24
+7,"Molecular&Cell Bio-undeclared ",45.8,54.2,41.7,0.0586
+7,"Music ",49,51,63.8,0.823
+7,"Music Composition ",87.5,12.5,87.5,0.0195
+7,"Music Education ",49.6,50.4,99.2,0.611
+7,"Music History ",50,50,100,0.00489
+7,"Musicology ",50,50,65,0.0489
+7,"Natural Res & Env Sciences ",51.6,48.4,80.2,0.222
+7,"Natural Resrcs & Environ Sci ",48.2,51.3,100,0.481
+7,"Neuroscience ",40.4,59.6,75,0.127
+7,"News-Editorial ",32.2,67.8,100,0.349
+7,"Nondegree-CE ",34.9,65.1,100,0.203
+7,"Nuclear Engineering ",80.7,19.3,78.9,0.418
+7,"Nutritional Sciences ",26.7,73.3,85,0.147
+7,"Open Studies ",55.6,44.4,88.9,0.022
+7,"Painting ",31.7,68.3,97.6,0.1
+7,"Philosophy ",78.2,21.8,96.8,0.303
+7,"Photography ",42.9,57.1,100,0.0855
+7,"Physics ",85.6,14.2,64.6,1.1
+7,"Plant Biology ",52,48,84,0.0611
+7,"Political Science ",57.6,42.2,96.5,2.76
+7,"Portuguese ",33.3,66.7,33.3,0.0147
+7,"Pre-Early Chld/Elem Ed/Spec Ed ",8.09,91.9,99.3,0.665
+7,"Professional Pilot ",89.2,10.8,98.5,0.159
+7,"Psychology ",30.3,69.6,93.3,3.71
+7,"Recreation, Sport, and Tourism ",60.7,39.1,93.8,1.02
+7,"Regional Planning ",50,50,50,0.0489
+7,"Rehabilitation ",0,100,100,0.0147
+7,"Religious Studies ",56,44,100,0.0611
+7,"Rhetoric ",45.4,54.6,100,0.264
+7,"Russian & E European Studies ",66.7,33.3,100,0.0147
+7,"Russian Lang & Literature ",25,75,100,0.00977
+7,"Russian, E Eur, Eurasian St ",85.7,14.3,100,0.0171
+7,"Sculpture ",33.3,66.7,100,0.0293
+7,"Secondary & Continuing Educ ",36.7,63.3,65,0.293
+7,"Slavic Languages & Literature ",40,60,50,0.0244
+7,"Social Work ",10.2,89.8,94.1,0.623
+7,"Sociology ",40.4,59.4,94.4,1.31
+7,"Spanish ",26.1,73.9,90.4,0.863
+7,"Special Education ",14.7,85.3,92.3,0.349
+7,"Speech & Hearing Science ",4.39,95.6,96.5,0.836
+7,"Speech Communication ",43.6,56.2,98.5,1.78
+7,"Statistics ",59.3,40.7,62.7,0.288
+7,"Statistics & Computer Science ",75,25,100,0.0195
+7,"Systems & Entrepreneurial Engr ",90.9,9.09,24.2,0.0806
+7,"Teaching of Chemistry ",0,100,100,0.00977
+7,"Teaching of English Sec Lang ",17,83,47.2,0.13
+7,"Teaching of French ",0,100,100,0.00733
+7,"Teaching of German ",25,75,100,0.00977
+7,"Teaching of Latin ",0,100,100,0.00244
+7,"Teaching of Mathematics ",50,50,100,0.00489
+7,"Teaching of Spanish ",6.45,93.5,100,0.0758
+7,"Technical Systems Management ",95.8,3.12,99,0.235
+7,"Theatre ",44.5,55.5,96.7,0.445
+7,"Theoretical & Applied Mechans ",84.3,15.7,41.2,0.125
+7,"Undeclared ",60.2,39.8,98.8,0.203
+7,"Urban Planning ",56.1,43.9,90.9,0.401
+7,"Veterinary Medical Science ",50,50,100,0.00489
+7,"Veterinary Medicine ",20.3,79.7,99.1,1.05
+7,"VMS - Veterinary Biosciences ",41.2,58.8,52.9,0.0415
+7,"VMS - Veterinary Pathobiology ",31.6,68.4,73.7,0.0464
+7,"VMS-Veterinary Clinical Medcne ",38.7,61.3,54.8,0.0758
+7,"Voice ",20,80,96,0.0611
+8,"Accountancy ",53.8,45.9,80.2,2.76
+8,"Actuarial Science ",64.3,35.7,74.1,0.709
+8,"Advertising ",29.1,70.9,93.9,1.11
+8,"Aerospace Engineering ",88.1,11.7,86,1.24
+8,"African American Studies ",100,0,100,0.00241
+8,"African Studies ",18.2,81.8,90.9,0.0265
+8,"Agr & Consumer Economics ",66.2,33.6,90.6,1.68
+8,"Agr & Environmental Cmc & Educ ",20.5,79.5,98.6,0.176
+8,"Agr Engineering & Agr Science ",87,13,100,0.13
+8,"Agribusiness, Farm & Financial ",83.9,16.1,100,0.0747
+8,"Agricultural & Biological Engr ",50,50,28.6,0.0337
+8,"Agricultural Education ",100,0,100,0.00241
+8,"Agricultural Engineering ",84.4,15.6,70,0.217
+8,"Animal Sciences ",26.9,73,92.5,1.55
+8,"Anthropology ",33.3,66.7,93.4,0.586
+8,"Applied Mathematics ",50,50,28.6,0.0675
+8,"Architectural Studies ",55.8,44.2,93.1,1.4
+8,"Architecture ",62.6,37.4,78.8,0.477
+8,"Art and Design ",40.5,59.5,66.7,0.101
+8,"Art Education ",17.1,82.9,94.3,0.253
+8,"Art Foundation ",28.1,71.9,87,0.352
+8,"Art History ",19.4,80.6,83.3,0.0868
+8,"Asian Studies ",26.7,73.3,46.7,0.0361
+8,"Astronomy ",69.3,30.7,72,0.181
+8,"Atmospheric Sciences ",60.5,38.4,79.1,0.207
+8,"Audiology ",15.8,84.2,100,0.0458
+8,"Aviation Human Factors ",90.7,9.29,100,0.337
+8,"Biochemistry ",59.8,40.2,78.4,0.492
+8,"Bioengineering ",58.4,41.6,87.3,0.417
+8,"Bioinformatics ",42.9,57.1,57.1,0.0169
+8,"Biology ",44.4,55.6,95.3,2.11
+8,"Biophysics & Computnl Biology ",74.7,25.3,33.3,0.181
+8,"Broadcast Journalism ",27.5,72.5,100,0.333
+8,"Business Administration ",47.2,52.8,85.4,0.612
+8,"Business Administration (MBA) ",72.7,26.5,73.5,0.856
+8,"Business Process Management ",50,50,83.3,0.0145
+8,"Cell and Developmental Biology ",41.3,58.7,50,0.111
+8,"Cell and Structural Biology ",75,25,25,0.00964
+8,"Chemical Engineering ",66.2,33.8,81.6,1.26
+8,"Chemical Physics ",76.9,23.1,69.2,0.0313
+8,"Chemistry ",60.4,39.6,86.9,1.74
+8,"Civil Engineering ",77,22.9,77.3,2.3
+8,"Classical Philology ",60,40,100,0.012
+8,"Classics ",37.8,62.2,94.6,0.0892
+8,"Communications ",46.9,53.1,65.3,0.118
+8,"Community Health ",21.4,78.6,99.2,1.47
+8,"Comparative Literature ",29.5,70.5,68.2,0.106
+8,"Computer Engineering ",89.2,10.3,83.4,1.07
+8,"Computer Science ",87.6,12.3,63.8,2.36
+8,"Crafts ",25,75,100,0.0482
+8,"Creative Writing ",45,55,95,0.0482
+8,"Crop Sciences ",64.8,35.2,82.4,0.342
+8,"Curric Unassigned ",57.2,42.8,92.3,2.74
+8,"Curriculum and Instruction ",13.9,86.1,83.3,0.0868
+8,"Dance ",14.6,85.4,96.3,0.198
+8,"E Asian Languages & Cultures ",40.6,59.4,78.1,0.231
+8,"Early Childhood Education ",1.79,96.4,98.2,0.135
+8,"Earth Systems, Env, & Society ",56.9,43.1,96.9,0.157
+8,"Ecol, Evol, Conservation Biol ",63.2,36.8,94.7,0.0458
+8,"Economics ",73.3,26.3,68.4,2.01
+8,"Ed Organization and Leadership ",35.8,64.2,98.8,0.39
+8,"Educational Policy Studies ",39.1,60.9,84.1,0.333
+8,"Educational Psychology ",29.5,70.5,61,0.253
+8,"Electrical & Computer Engr ",88.1,11.9,48,1.21
+8,"Electrical Engineering ",89.2,10.7,74.1,1.94
+8,"Elementary Education ",7.56,92.4,91.3,0.829
+8,"Engineering Mechanics ",81.3,17.3,89.3,0.181
+8,"Engineering Physics ",90.1,9.92,95.4,0.316
+8,"English ",30.8,69.1,98.6,2.25
+8,"Entomology ",45.5,54.5,78.8,0.0795
+8,"Environ Engr in Civil Engr ",45.3,54.7,44,0.181
+8,"Environ Science in Civil Engr ",30,70,40,0.0241
+8,"Finance ",68.4,31.4,80.2,1.76
+8,"Food Science & Human Nutrition ",23.4,76.6,85.1,0.957
+8,"French ",27.1,72.9,87.5,0.231
+8,"General Curriculum ",48,52,95.4,3.45
+8,"General Engineering ",75.8,24.2,93.9,1.31
+8,"Geography ",67.8,31,82.8,0.21
+8,"Geology ",60.2,39.8,83,0.212
+8,"German ",28.6,71.4,76.2,0.0506
+8,"Germanic Lang & Lit ",44.1,55.9,100,0.0819
+8,"Graphic Design ",31,69,93,0.171
+8,"History ",64.4,35.4,96.7,1.59
+8,"History of Art ",10.5,89.5,93,0.137
+8,"Horticulture ",63.2,36.8,100,0.137
+8,"Human & Community Development ",14.3,85.7,78.6,0.0675
+8,"Human Development & Family St ",4.27,95.7,99.1,0.508
+8,"Human Factors ",50,50,33.3,0.0289
+8,"Human Res & Industrial Rels ",30.9,69.1,79.8,0.453
+8,"Human Resource Education ",39.2,60.8,62,0.19
+8,"Individual Plans of Study ",57.1,42.9,100,0.0169
+8,"Industrial Design ",53.3,46.7,87.9,0.258
+8,"Industrial Engineering ",68.8,31.2,57.6,0.301
+8,"Information Sys & Info Tech ",76,24,96,0.0602
+8,"Instrumental Music ",46.1,53.9,94.1,0.246
+8,"Integrative Biology ",47.5,52.5,98.1,0.776
+8,"Interdisciplinary ",47.7,52.3,98.5,0.157
+8,"International Studies ",27.6,72.1,91.5,0.969
+8,"Intl, Resource, Consumer Econ ",65,35,100,0.0482
+8,"Italian ",35.7,64.3,71.4,0.0337
+8,"Jazz Performance ",92.1,7.89,100,0.0916
+8,"Journalism ",46.2,53.8,84.6,0.0627
+8,"Kinesiology ",41.8,58,96.7,1.62
+8,"Landscape Architecture ",56.1,43.9,87.1,0.374
+8,"Latin American Studies ",33.3,66.7,100,0.0361
+8,"Law ",56.1,43.9,89.7,1.5
+8,"Leisure Studies ",66.7,33.3,83.3,0.0145
+8,"Library & Information Science ",27.3,72.7,87.8,0.689
+8,"Linguistics ",38.7,61.3,77.4,0.299
+8,"Management ",48.8,51.2,91.7,0.202
+8,"Marketing ",38.2,61.8,98,0.246
+8,"Materials Science & Engr ",77.2,22.8,73.8,1.06
+8,"Math & Computer Science ",91.3,8.7,91.3,0.222
+8,"Mathematics ",62.9,36.9,80.6,1.34
+8,"Mechanical Engineering ",88.1,11.7,80.8,2.65
+8,"Media Studies ",30.4,69.6,94.1,0.246
+8,"Microbiology ",44.4,55.6,63.9,0.174
+8,"Molecular & Integrative Physi ",41.9,58.1,54.8,0.0747
+8,"Molecular and Cellular Biology ",49.5,50.3,95.8,2.43
+8,"Molecular&Cell Bio-undeclared ",51.6,48.4,54.8,0.0747
+8,"Music ",46.6,53.4,64.9,0.839
+8,"Music Composition ",66.7,33.3,88.9,0.0217
+8,"Music Education ",49.4,50.6,98.9,0.643
+8,"Music History ",50,50,100,0.00482
+8,"Musicology ",42.1,57.9,73.7,0.0458
+8,"Natural Res & Env Sciences ",54.9,45.1,78,0.219
+8,"Natural Resrcs & Environ Sci ",49.2,50.3,100,0.427
+8,"Neuroscience ",38.9,61.1,77.8,0.13
+8,"New Media ",53.3,46.7,86.7,0.0361
+8,"News-Editorial ",29.2,70.8,99.5,0.528
+8,"Nondegree-CE ",33.3,66.7,100,0.174
+8,"Nuclear Engineering ",87.4,12.6,77,0.419
+8,"Nutritional Sciences ",23,77,80.3,0.147
+8,"Open Studies ",66.7,33.3,91.7,0.0289
+8,"Painting ",31.4,68.6,100,0.0843
+8,"Philosophy ",81.7,18.3,96.8,0.304
+8,"Photography ",44.8,55.2,96.6,0.0699
+8,"Physics ",86.4,13.4,61.9,1.08
+8,"Plant Biology ",40,60,93.3,0.0723
+8,"Political Science ",60.1,39.9,96.5,2.56
+8,"Portuguese ",50,50,50,0.00482
+8,"Pre-Early Chld/Elem Ed/Spec Ed ",8.33,91.7,99,0.694
+8,"Professional Pilot ",91.1,8.93,100,0.135
+8,"Psychology ",28.3,71.7,93.2,3.46
+8,"Recreation, Sport, and Tourism ",64.3,35.5,94.1,1.02
+8,"Regional Planning ",63.2,36.8,42.1,0.0458
+8,"Rehabilitation ",0,100,100,0.012
+8,"Religious Studies ",52.2,47.8,100,0.0554
+8,"Rhetoric ",50.4,49.6,99.2,0.287
+8,"Russian & E European Studies ",50,50,100,0.00964
+8,"Russian Lang & Literature ",50,50,100,0.00964
+8,"Russian, E Eur, Eurasian St ",81.8,18.2,100,0.0265
+8,"Sculpture ",20,80,100,0.0241
+8,"Secondary & Continuing Educ ",40.7,59.3,66.3,0.207
+8,"Secondary Education ",33.3,66.7,100,0.00723
+8,"Slavic Languages & Literature ",25,75,62.5,0.0193
+8,"Social Work ",11.8,88.2,93.5,0.634
+8,"Sociology ",40.9,58.8,94,1.24
+8,"Spanish ",26.2,73.8,90.9,0.718
+8,"Special Education ",15,84.2,94.7,0.321
+8,"Speech & Hearing Science ",5.73,94.3,97.1,0.841
+8,"Speech Communication ",41.9,58.1,98.8,1.84
+8,"Statistics ",57.9,42.1,62.4,0.321
+8,"Statistics & Computer Science ",78.6,21.4,78.6,0.0337
+8,"Supply Chain Management ",66.7,33.3,100,0.0578
+8,"Systems & Entrepreneurial Engr ",84.8,15.2,39.4,0.0795
+8,"Teaching of Chemistry ",0,100,50,0.00482
+8,"Teaching of Earth Science ",0,100,100,0.00241
+8,"Teaching of English Sec Lang ",25,75,40.4,0.125
+8,"Teaching of French ",20,80,100,0.012
+8,"Teaching of German ",50,50,100,0.00482
+8,"Teaching of Spanish ",5.56,94.4,100,0.0868
+8,"Technical Systems Management ",93.3,6.67,100,0.253
+8,"Technology Management ",63.3,36.7,0,0.118
+8,"Theatre ",43.1,56.9,96.8,0.453
+8,"Theoretical & Applied Mechans ",87.2,12.8,42.6,0.113
+8,"Undeclared ",52.1,47.8,90.4,4.86
+8,"Urban Planning ",58,42,90.7,0.361
+8,"Veterinary Medicine ",20.4,79.6,99.6,1.09
+8,"VMS - Veterinary Biosciences ",42.1,57.9,42.1,0.0458
+8,"VMS - Veterinary Pathobiology ",42.9,57.1,78.6,0.0337
+8,"VMS-Veterinary Clinical Medcne ",39.4,60.6,60.6,0.0795
+8,"Voice ",20,80,97.1,0.0843
+9,"Accountancy ",54.8,45.2,76.5,2.84
+9,"Actuarial Science ",60.8,39.2,69.2,0.682
+9,"Advertising ",33,66.7,93.4,1.05
+9,"Aerospace Engineering ",87.4,12.6,84,1.21
+9,"African American Studies ",14.3,85.7,100,0.0167
+9,"African Studies ",37.5,62.5,87.5,0.0191
+9,"Agr & Consumer Economics ",65.8,34.2,87,1.54
+9,"Agr & Environmental Cmc & Educ ",22,78,98.8,0.196
+9,"Agr Engineering & Agr Science ",87,13,98.6,0.165
+9,"Agribusiness, Farm & Financial ",75,25,100,0.00954
+9,"Agricultural & Biological Engr ",62.7,37.3,66.1,0.141
+9,"Agricultural Education ",0,100,100,0.00477
+9,"Agricultural Engineering ",85.9,14.1,73.4,0.153
+9,"Agricultural Production ",40,60,100,0.0119
+9,"Animal Sciences ",27.1,72.7,92.7,1.48
+9,"Anthropology ",30.9,69.1,91.7,0.518
+9,"Applied Mathematics ",39.1,60.9,13,0.0549
+9,"Architectural Studies ",57.6,42.4,93.1,1.32
+9,"Architecture ",59.3,40.7,82.5,0.463
+9,"Art and Design ",40,60,66.7,0.107
+9,"Art Education ",21.3,78.7,95.5,0.212
+9,"Art Foundation ",33.6,66.4,94.3,0.334
+9,"Art History ",25.8,74.2,80.6,0.074
+9,"Asian Studies ",20,80,40,0.0239
+9,"Astronomy ",69.9,30.1,69.9,0.174
+9,"Athletic Training ",34.5,65.5,100,0.0692
+9,"Atmospheric Sciences ",56,44,85.3,0.277
+9,"Audiology ",26.3,73.7,100,0.0453
+9,"Aviation Human Factors ",92.2,7.81,99.2,0.305
+9,"Biochemistry ",53.5,46.5,78.2,0.482
+9,"Bioenergy ",100,0,66.7,0.0143
+9,"Bioengineering ",59.2,40.8,87.2,0.427
+9,"Bioinformatics ",50,50,40,0.0239
+9,"Biology ",46.7,53.1,94.6,1.93
+9,"Biophysics & Computnl Biology ",78.6,21.4,37.1,0.167
+9,"Broadcast Journalism ",27.3,72.7,99.4,0.367
+9,"Business Administration ",54.5,45.5,63.6,0.262
+9,"Business Administration (MBA) ",68.1,31,72.8,0.823
+9,"Business Process Management ",55.6,44.4,94.4,0.0429
+9,"Cell and Developmental Biology ",45.5,54.5,43.2,0.105
+9,"Cell and Structural Biology ",100,0,33.3,0.00716
+9,"Chemical Engineering ",65.9,34,78.4,1.37
+9,"Chemical Physics ",81.8,18.2,72.7,0.0262
+9,"Chemistry ",61.6,38.2,85.7,1.77
+9,"Civil Engineering ",74.9,25,78.5,2.6
+9,"Classical Philology ",55.6,44.4,88.9,0.0215
+9,"Classics ",50,50,100,0.0859
+9,"Communication ",40.4,59.6,97,1.21
+9,"Communications ",46,54,56,0.119
+9,"Community Health ",20.9,78.9,98.6,1.4
+9,"Comparative Literature ",36.4,61.4,70.5,0.105
+9,"Computer Engineering ",90.2,9.59,79.1,1.12
+9,"Computer Science ",88.3,11.7,61.4,2.47
+9,"Crafts ",21.4,78.6,92.9,0.0334
+9,"Creative Writing ",52.6,47.4,100,0.0453
+9,"Crop Sciences ",70.6,29.4,82.8,0.389
+9,"Curric Unassigned ",55.3,44.7,92.5,2.48
+9,"Curriculum and Instruction ",15.7,84.3,82.9,0.167
+9,"Dance ",12.2,87.8,97.6,0.196
+9,"E Asian Languages & Cultures ",37.3,62.7,78.4,0.243
+9,"Early Childhood Education ",2.38,97.6,97.6,0.1
+9,"Earth Systems, Env, & Society ",53.1,46.9,97.7,0.305
+9,"Ecol, Evol, Conservation Biol ",40.9,59.1,95.5,0.0525
+9,"Economics ",72.5,27.4,59.5,2.01
+9,"Ed Organization and Leadership ",38.1,61.3,98.1,0.37
+9,"Educational Policy Studies ",35.6,64.4,87.9,0.355
+9,"Educational Psychology ",29.6,70.4,65.3,0.234
+9,"Electrical & Computer Engr ",86.9,13.1,44.8,1.22
+9,"Electrical Engineering ",88.6,11.3,67.9,2.25
+9,"Elementary Education ",6.43,93.6,94.2,0.742
+9,"Engineering Mechanics ",84,16,84,0.253
+9,"Engineering Physics ",89.9,10.1,92.1,0.332
+9,"English ",32.3,67.6,98.6,2.14
+9,"Entomology ",47.1,52.9,67.6,0.0811
+9,"Environ Engr in Civil Engr ",50,50,53.8,0.191
+9,"Environ Science in Civil Engr ",27.3,72.7,72.7,0.0262
+9,"Finance ",68.7,31.3,74.6,1.67
+9,"Food Science & Human Nutrition ",21.9,78.1,82.2,1.06
+9,"French ",26.7,73.3,80.2,0.205
+9,"Gender and Women's Studies ",11.1,88.9,100,0.0215
+9,"General Curriculum ",39.7,60.3,97.4,0.637
+9,"General Engineering ",76.9,22.9,93,1.08
+9,"Geography ",63.8,34.8,82.6,0.165
+9,"Geology ",59.8,40.2,85.4,0.196
+9,"German ",45.5,54.5,63.6,0.0525
+9,"Germanic Lang & Lit ",37.9,58.6,100,0.0692
+9,"Global Studies ",26.9,73.1,90.3,0.222
+9,"Graphic Design ",35.9,64.1,93.8,0.153
+9,"Health ",15.8,84.2,94.7,0.0453
+9,"History ",62.1,37.7,96.5,1.49
+9,"History of Art ",8.16,91.8,89.8,0.117
+9,"Horticulture ",66.7,33.3,100,0.122
+9,"Human & Community Development ",16.7,83.3,90,0.0716
+9,"Human Development & Family St ",6.73,92.3,97.6,0.496
+9,"Human Factors ",27.3,72.7,45.5,0.0262
+9,"Human Res & Industrial Rels ",30.4,69.6,71.2,0.456
+9,"Human Resource Education ",50,50,55.1,0.186
+9,"Individual Plans of Study ",66.7,33.3,100,0.0215
+9,"Industrial Design ",47.9,52.1,85.5,0.279
+9,"Industrial Engineering ",70.4,29.6,51.6,0.379
+9,"Information Sys & Info Tech ",81.1,18.9,94.6,0.0883
+9,"Instrumental Music ",45.7,54.3,96.8,0.224
+9,"Integrative Biology ",44.1,55.9,97.3,0.785
+9,"Interdisciplinary ",42.2,57.8,95.6,0.107
+9,"International Studies ",28.8,70.9,90.5,0.754
+9,"Intl, Resource, Consumer Econ ",100,0,100,0.00477
+9,"Italian ",42.9,57.1,78.6,0.0334
+9,"Jazz Performance ",87.8,12.2,100,0.0978
+9,"Journalism ",32,68,84,0.0596
+9,"Kinesiology ",42.8,57,95.9,1.56
+9,"Landscape Architecture ",54.7,45.3,80.6,0.332
+9,"Latin American Studies ",52.9,47.1,88.2,0.0406
+9,"Law ",55.2,44.8,83.6,1.69
+9,"Leisure Studies ",66.7,33.3,66.7,0.00716
+9,"Library & Information Science ",28.3,71.7,90.9,0.709
+9,"Linguistics ",37.6,62.4,69.7,0.26
+9,"Management ",41.5,57.9,90.2,0.391
+9,"Marketing ",38.4,61.6,95.4,0.36
+9,"Materials Science & Engr ",74.3,25.7,71.5,1.1
+9,"Math & Computer Science ",86.1,13.9,84.8,0.188
+9,"Mathematics ",61.7,38.3,73.5,1.35
+9,"Mechanical Engineering ",89,10.8,78.2,2.51
+9,"Media and Cinema Studies ",100,0,100,0.00239
+9,"Media Studies ",28.2,71.8,90.9,0.262
+9,"Microbiology ",41.2,58.8,66.2,0.162
+9,"Molecular & Integrative Physi ",41.9,58.1,51.6,0.074
+9,"Molecular and Cellular Biology ",50.3,49.4,97,2.48
+9,"Molecular&Cell Bio-undeclared ",49.2,50.8,68.9,0.146
+9,"Music ",48.7,51.3,63.8,0.823
+9,"Music Composition ",81.8,18.2,100,0.0262
+9,"Music Education ",48.6,51.4,99.2,0.58
+9,"Music History ",42.9,57.1,85.7,0.0167
+9,"Musicology ",50,50,72.2,0.0429
+9,"Natural Res & Env Sciences ",59.1,40.9,72.7,0.21
+9,"Natural Resrcs & Environ Sci ",50.8,49.2,96.4,0.465
+9,"Neuroscience ",40,60,84,0.119
+9,"New Media ",45.5,54.5,86.4,0.0525
+9,"News-Editorial ",29.8,70.2,99.1,0.513
+9,"Nondegree-CE ",30.7,69.3,100,0.241
+9,"Nuclear Engineering ",87.2,12.8,71.8,0.279
+9,"Nuclear, Plasma, Radiolgc Engr ",81.4,18.6,78.4,0.243
+9,"Nutritional Sciences ",24.1,75.9,75.9,0.138
+9,"Open Studies ",58.3,41.7,91.7,0.0286
+9,"Painting ",29,71,93.5,0.074
+9,"Philosophy ",82.9,17.1,96.9,0.308
+9,"Photography ",24.2,75.8,93.9,0.0787
+9,"Physics ",87.4,12.6,62.1,1.06
+9,"Plant Biology ",42.5,57.5,92.5,0.0954
+9,"Political Science ",61.6,38.4,95.5,2.43
+9,"Portuguese ",50,50,50,0.00477
+9,"Pre-Early Chld/Elem Ed/Spec Ed ",6.4,93.3,98.8,0.782
+9,"Professional Pilot ",91.7,8.33,97.2,0.0859
+9,"Psychology ",28.4,71.5,92.7,3.38
+9,"Public Health ",60,40,100,0.0119
+9,"Recreation, Sport, and Tourism ",64.8,35,92.8,1.02
+9,"Regional Planning ",56,44,40,0.0596
+9,"Rehabilitation ",50,50,100,0.00954
+9,"Religion ",33.3,66.7,100,0.0143
+9,"Religious Studies ",47.4,52.6,100,0.0453
+9,"Rhetoric ",50.8,49.2,98.3,0.282
+9,"Russian & E European Studies ",80,20,100,0.0119
+9,"Russian Lang & Literature ",50,50,100,0.00954
+9,"Russian, E Eur, Eurasian St ",72.2,27.8,100,0.0429
+9,"Sculpture ",20,80,100,0.0119
+9,"Secondary & Continuing Educ ",33.3,66.7,53.7,0.129
+9,"Secondary Education ",42.9,57.1,100,0.0501
+9,"Slavic Languages & Literature ",15.4,84.6,69.2,0.031
+9,"Social Work ",11.9,88.1,91.5,0.62
+9,"Sociology ",38.7,61.1,94.1,1.18
+9,"Spanish ",25.6,74.4,90.6,0.661
+9,"Special Education ",15.6,84.4,93.6,0.336
+9,"Speech & Hearing Science ",5,94.7,96.5,0.811
+9,"Speech Communication ",41.4,58.6,98.7,0.899
+9,"Statistics ",56.8,43.2,58.7,0.37
+9,"Statistics & Computer Science ",81.2,18.8,75,0.0382
+9,"Supply Chain Management ",68.6,31.4,100,0.0835
+9,"Systems & Entrepreneurial Engr ",73.3,26.7,40,0.0716
+9,"Taxation ",46.2,53.8,76.9,0.062
+9,"Teaching of Biological Science ",50,50,100,0.00477
+9,"Teaching of Chemistry ",66.7,33.3,66.7,0.00716
+9,"Teaching of Earth Science ",0,100,100,0.00239
+9,"Teaching of English Sec Lang ",26,74,36,0.119
+9,"Teaching of French ",14.3,85.7,100,0.0167
+9,"Teaching of German ",33.3,66.7,100,0.00716
+9,"Teaching of Latin ",0,100,100,0.00477
+9,"Teaching of Spanish ",21.4,78.6,100,0.0668
+9,"Technical Systems Management ",91.5,8.53,96.9,0.308
+9,"Technology Management ",78.8,21.2,15.4,0.124
+9,"Theatre ",43.9,56.1,94.4,0.429
+9,"Theoretical & Applied Mechans ",84.8,15.2,47.8,0.11
+9,"Undeclared ",51.2,48.7,93.1,7.29
+9,"Urban Planning ",61.6,38.4,85.5,0.379
+9,"Veterinary Medicine ",20.3,79.3,99.4,1.1
+9,"VMS - Veterinary Biosciences ",33.3,66.7,38.9,0.0429
+9,"VMS - Veterinary Pathobiology ",50,50,62.5,0.0382
+9,"VMS-Veterinary Clinical Medcne ",36.7,63.3,60,0.0716
+9,"Voice ",23.3,76.7,100,0.0716
+10,"Accountancy ",52.8,47.2,73.1,3.03
+10,"Actuarial Science ",57.9,42.1,63.7,0.696
+10,"Advertising ",30,70,89.5,1.25
+10,"Aerospace Engineering ",86.7,13.3,80.4,1.25
+10,"African American Studies ",57.1,42.9,85.7,0.0167
+10,"African Studies ",66.7,33.3,75,0.0286
+10,"Agr & Consumer Economics ",65.7,34.3,84.3,1.46
+10,"Agr & Environmental Cmc & Educ ",28.9,71.1,100,0.215
+10,"Agr Engineering & Agr Science ",85.4,14.6,97.6,0.0977
+10,"Agricultural & Biological Engr ",72.5,27.5,76.3,0.312
+10,"Agricultural Education ",33.3,66.7,100,0.0143
+10,"Agricultural Engineering ",84.1,15.9,75,0.105
+10,"Agricultural Production ",42.9,57.1,100,0.0167
+10,"Animal Sciences ",25.5,74.3,92.3,1.43
+10,"Anthropology ",34.3,65.7,95,0.479
+10,"Applied Mathematics ",58.3,41.7,8.33,0.0572
+10,"Architectural Studies ",57.6,42.4,89.1,1.2
+10,"Architecture ",53.7,46.3,83.2,0.453
+10,"Art and Design ",52.6,47.4,68.4,0.0906
+10,"Art Education ",19.8,80.2,91.2,0.217
+10,"Art Foundation ",38.7,61.3,91.3,0.358
+10,"Art History ",17.9,82.1,78.6,0.0667
+10,"Asian Studies ",50,50,66.7,0.0286
+10,"Astronomy ",73,27,78.4,0.176
+10,"Athletic Training ",26.5,73.5,100,0.0811
+10,"Atmospheric Sciences ",60.2,39.8,85.9,0.305
+10,"Audiology ",23.8,76.2,100,0.0501
+10,"Aviation Human Factors ",93.1,6.93,98,0.241
+10,"Biochemistry ",52.5,47.5,77.5,0.486
+10,"Bioenergy ",83.3,16.7,75,0.0286
+10,"Bioengineering ",63,37,86.5,0.477
+10,"Bioinformatics ",81.2,18.8,25,0.0381
+10,"Biology ",48.5,51.5,94.4,1.87
+10,"Biophysics & Computnl Biology ",81.5,18.5,35.4,0.155
+10,"Broadcast Journalism ",30.1,69.9,95.6,0.324
+10,"Business Administration ",53.4,46.6,37.9,0.138
+10,"Business Administration (MBA) ",69.3,30.4,72.4,0.76
+10,"Business Process Management ",52.2,47.8,95.7,0.0548
+10,"Cell and Developmental Biology ",54.8,45.2,45.2,0.1
+10,"Cell and Structural Biology ",100,0,33.3,0.00715
+10,"Chemical Engineering ",67.1,32.7,78.1,1.48
+10,"Chemical Physics ",88.9,11.1,77.8,0.0215
+10,"Chemistry ",61.6,38.2,85.6,1.74
+10,"Civil Engineering ",74.9,24.9,74.8,2.79
+10,"Classical Philology ",57.1,42.9,100,0.0167
+10,"Classics ",57.9,42.1,100,0.0906
+10,"Communication ",38.6,61.4,95.3,2.01
+10,"Communications ",44.9,55.1,55.1,0.117
+10,"Communications and Media ",42.9,57.1,42.9,0.0167
+10,"Community Health ",22.9,77,98.5,1.31
+10,"Comparative Literature ",33.3,64.1,76.9,0.093
+10,"Computer Engineering ",91.6,8.21,76,1.25
+10,"Computer Science ",88.4,11.6,61.2,2.79
+10,"Crafts ",7.14,92.9,92.9,0.0334
+10,"Creative Writing ",43.8,56.2,100,0.0381
+10,"Crop Sciences ",71.6,28.4,78.9,0.462
+10,"Curric Unassigned ",57.2,42.8,91.4,2.43
+10,"Curriculum and Instruction ",22.5,77.5,85.4,0.212
+10,"Dance ",10.1,89.9,100,0.188
+10,"E Asian Languages & Cultures ",36.6,63.4,79.5,0.267
+10,"Early Childhood Education ",0,100,95.5,0.105
+10,"Earth Systems, Env, & Society ",53.8,46.2,95.6,0.377
+10,"Ecol, Evol, Conservation Biol ",45.5,54.5,95.5,0.0524
+10,"Economics ",70.6,29.4,50,2.16
+10,"Ed Organization and Leadership ",40.4,59.6,97.1,0.324
+10,"Educational Policy Studies ",35.6,64.4,89.3,0.355
+10,"Educational Psychology ",29,71,64.5,0.222
+10,"Electrical & Computer Engr ",86.5,13.5,45.8,1.2
+10,"Electrical Engineering ",88.5,11.3,63.2,2.44
+10,"Elementary Education ",6.17,93.5,94.8,0.734
+10,"Engineering Mechanics ",85.2,14.8,81.5,0.322
+10,"Engineering Physics ",88.8,11.2,87.4,0.341
+10,"English ",32.2,67.7,97.9,1.94
+10,"Entomology ",42.4,57.6,69.7,0.0787
+10,"Environ Engr in Civil Engr ",47.6,52.4,46.4,0.2
+10,"Environ Science in Civil Engr ",22.2,77.8,44.4,0.0215
+10,"European Union Studies ",40,60,100,0.0119
+10,"Finance ",67.2,32.8,68.4,1.38
+10,"Financial Engineering ",80.8,19.2,19.2,0.062
+10,"Food Science & Human Nutrition ",21.9,78.1,81.5,1.05
+10,"French ",28.4,71.6,90.1,0.193
+10,"Gender and Women's Studies ",0,100,100,0.0381
+10,"General Curriculum ",33.1,66.9,97.5,0.281
+10,"General Engineering ",76.5,23.2,90.4,1.02
+10,"Geography ",65.7,34.3,75.7,0.167
+10,"Geology ",65.4,34.6,83.3,0.186
+10,"German ",38.1,61.9,66.7,0.0501
+10,"Germanic Lang & Lit ",46.7,53.3,100,0.0358
+10,"Global Studies ",27.8,72.2,91.2,0.489
+10,"Graphic Design ",37.3,62.7,97,0.16
+10,"Health ",25.3,74.7,98.7,0.188
+10,"History ",63.6,36.2,96.5,1.43
+10,"History of Art ",0,100,90.9,0.105
+10,"Horticulture ",67.4,32.6,97.7,0.103
+10,"Human & Community Development ",21.2,78.8,87.9,0.0787
+10,"Human Development & Family St ",9.39,89.7,97.7,0.508
+10,"Human Factors ",33.3,66.7,50,0.0143
+10,"Human Res & Industrial Rels ",32,68,64,0.424
+10,"Human Resource Education ",46.1,53.9,62.9,0.212
+10,"Individual Plans of Study ",75,25,100,0.0191
+10,"Industrial Design ",47.3,52.7,83,0.267
+10,"Industrial Engineering ",72.1,27.9,51.2,0.479
+10,"Information Sys & Info Tech ",78.1,21.9,96.9,0.0763
+10,"Instrumental Music ",41.5,58.5,90.2,0.195
+10,"Integrative Biology ",42.1,57.9,96.7,0.861
+10,"Interdisciplinary ",43.8,56.2,100,0.0381
+10,"International Studies ",25,74.2,88.6,0.315
+10,"Italian ",28.6,71.4,85.7,0.0167
+10,"Jazz Performance ",81.8,18.2,100,0.0787
+10,"Journalism ",35,65,90,0.0477
+10,"Kinesiology ",42.8,57.1,95.2,1.55
+10,"Landscape Architecture ",50.4,49.6,81.1,0.303
+10,"LAS - Undeclared ",35.8,64.2,100,0.226
+10,"Latin American Studies ",54.5,45.5,90.9,0.0262
+10,"Law ",54.8,45.2,83.7,1.75
+10,"Library & Information Science ",27.8,71.9,93.3,0.78
+10,"Linguistics ",36.6,63.4,69.3,0.241
+10,"Management ",50.3,49.2,94.5,0.431
+10,"Marketing ",33.8,66.2,98,0.479
+10,"Materials Science & Engr ",77.3,22.7,71.2,1.11
+10,"Math & Computer Science ",87.8,12.2,75.6,0.195
+10,"Mathematics ",60.9,39.1,68.8,1.41
+10,"Mechanical Engineering ",89.6,10.3,74.2,2.6
+10,"Media and Cinema Studies ",53.2,46.8,90.3,0.148
+10,"Media Studies ",28.8,71.2,88.1,0.141
+10,"Microbiology ",35.8,64.2,68.7,0.16
+10,"Molecular & Integrative Physi ",41.7,58.3,61.1,0.0858
+10,"Molecular and Cellular Biology ",51.3,48.7,96.6,2.46
+10,"Molecular&Cell Bio-undeclared ",44.4,55.6,55.6,0.0858
+10,"Music ",48.5,51.5,63.6,0.851
+10,"Music Composition ",75,25,91.7,0.0286
+10,"Music Education ",49.5,50.5,98.6,0.501
+10,"Music History ",37.5,62.5,87.5,0.0191
+10,"Musicology ",50,50,64.3,0.0334
+10,"Natural Res & Env Sciences ",60,40,74.3,0.167
+10,"Natural Resrcs & Environ Sci ",54.5,45.5,92.5,0.446
+10,"Neuroscience ",41.4,58.6,82.8,0.138
+10,"New Media ",32,68,92,0.0596
+10,"News-Editorial ",30.4,69.6,98.3,0.431
+10,"Nondegree-CE ",37.6,62.4,100,0.241
+10,"Nuclear Engineering ",86.1,13.9,77,0.291
+10,"Nuclear, Plasma, Radiolgc Engr ",83.9,16.1,78.8,0.281
+10,"Nutritional Sciences ",28.1,71.9,77.2,0.136
+10,"Open Studies ",37.5,62.5,87.5,0.0191
+10,"Painting ",25.7,74.3,88.6,0.0834
+10,"Philosophy ",82.4,17.6,93.6,0.298
+10,"Photography ",25,75,97.2,0.0858
+10,"Physics ",86.2,13.6,64.4,1.07
+10,"Plant Biology ",42.5,57.5,90,0.0954
+10,"Political Science ",62.4,37.6,95.1,2.18
+10,"Portuguese ",50,50,50,0.00477
+10,"Pre-Early Chld/Elem Ed/Spec Ed ",7.32,92.7,98.6,0.684
+10,"Professional Pilot ",93.8,6.25,95.8,0.114
+10,"Psychology ",32.2,67.6,91.2,3.45
+10,"Public Health ",38.5,61.5,92.3,0.031
+10,"Recreation, Sport, and Tourism ",62.9,36.9,91.8,0.899
+10,"Regional Planning ",62.5,37.5,50,0.0572
+10,"Rehabilitation ",33.3,66.7,100,0.0143
+10,"Religion ",53.3,46.7,100,0.0358
+10,"Religious Studies ",37.5,62.5,100,0.0191
+10,"Rhetoric ",57.4,42.6,98.1,0.257
+10,"Russian & E European Studies ",100,0,100,0.00954
+10,"Russian Lang & Literature ",75,25,100,0.00954
+10,"Russian, E Eur, Eurasian St ",61.5,38.5,100,0.031
+10,"Sculpture ",33.3,66.7,100,0.00715
+10,"Secondary & Continuing Educ ",36.4,63.6,42.4,0.0787
+10,"Secondary Education ",46.2,53.8,100,0.031
+10,"Slavic Languages & Literature ",14.3,85.7,57.1,0.0334
+10,"Social Work ",11.1,88.9,95.1,0.732
+10,"Sociology ",39.4,60.6,92,0.98
+10,"Spanish ",21.7,78.3,93.4,0.539
+10,"Special Education ",12.1,87.9,95,0.334
+10,"Speech & Hearing Science ",4.17,95.8,97.6,0.801
+10,"Speech Communication ",35.4,64.6,98.7,0.188
+10,"Statistics ",59.3,40.7,57.6,0.422
+10,"Statistics & Computer Science ",63.2,36.8,52.6,0.0453
+10,"Supply Chain Management ",61.5,38.5,92.3,0.124
+10,"Systems & Entrepreneurial Engr ",80.8,19.2,50,0.062
+10,"Taxation ",55.2,44.8,89.7,0.0691
+10,"Teaching of Biological Science ",50,50,100,0.00477
+10,"Teaching of Chemistry ",100,0,100,0.00477
+10,"Teaching of English Sec Lang ",16.9,83.1,52.5,0.141
+10,"Teaching of French ",0,100,100,0.00954
+10,"Teaching of German ",33.3,66.7,100,0.00715
+10,"Teaching of Latin ",0,100,100,0.00238
+10,"Teaching of Mathematics ",75,25,100,0.00954
+10,"Teaching of Physics ",100,0,100,0.00238
+10,"Teaching of Spanish ",24,76,100,0.0596
+10,"Technical Systems Management ",93.3,6.71,94.6,0.355
+10,"Technology Management ",71.2,28.8,6.78,0.141
+10,"Theatre ",40.3,59.1,92,0.42
+10,"Theoretical & Applied Mechans ",82.2,17.8,51.1,0.107
+10,"Undeclared ",53.1,46.9,92,6.98
+10,"Urban Planning ",57,43,89.3,0.355
+10,"Veterinary Medicine ",19.9,79.7,99.8,1.14
+10,"VMS - Pathobiology ",20,80,80,0.0119
+10,"VMS - Veterinary Biosciences ",33.3,66.7,53.3,0.0358
+10,"VMS - Veterinary Pathobiology ",57.1,42.9,57.1,0.0334
+10,"VMS-Veterinary Clinical Medcne ",28.1,71.9,75,0.0763
+10,"Voice ",18.8,81.2,100,0.0763
+11,"Accountancy ",51,49,70.7,3.04
+11,"Actuarial Science ",57,43,63.8,0.655
+11,"Advertising ",30.5,69.5,88.1,1.54
+11,"Aerospace Engineering ",86.2,13.8,80.1,1.19
+11,"African American Studies ",100,0,66.7,0.00704
+11,"African Studies ",83.3,16.7,66.7,0.0141
+11,"Agr & Consumer Economics ",66.9,33.1,85.9,1.41
+11,"Agr & Environmental Cmc & Educ ",24.4,75.6,98.7,0.183
+11,"Agr Engineering & Agr Science ",85.7,14.3,100,0.0493
+11,"Agricultural & Applied Econ ",45.9,54.1,37.8,0.0868
+11,"Agricultural & Biological Engr ",70.1,29.9,73.7,0.455
+11,"Agricultural Communications ",0,100,100,0.0164
+11,"Agricultural Education ",12.5,87.5,100,0.0188
+11,"Agricultural Engineering ",70,30,60,0.0235
+11,"Agricultural Production ",50,50,87.5,0.0188
+11,"Animal Sciences ",23.2,76.6,92.9,1.31
+11,"Anthropology ",31.2,68.8,93.2,0.481
+11,"Applied Mathematics ",67.9,32.1,17.9,0.0657
+11,"Architectural Studies ",56.4,43.6,84.4,1.19
+11,"Architecture ",59.8,40.2,78.1,0.514
+11,"Art and Design ",51.3,48.7,76.9,0.0915
+11,"Art Education ",20.7,78,89,0.192
+11,"Art Foundation ",31.5,68.5,90.7,0.253
+11,"Art History ",15.4,84.6,76.9,0.061
+11,"Asian Studies ",62.5,37.5,75,0.0188
+11,"Astronomy ",59.4,40.6,75,0.15
+11,"Athletic Training ",29.4,70.6,100,0.0399
+11,"Atmospheric Sciences ",59.1,40.9,88.2,0.298
+11,"Audiology ",27.8,72.2,100,0.0422
+11,"Aviation Human Factors ",92.9,7.14,97.1,0.164
+11,"Biochemistry ",55.8,44.2,74.5,0.488
+11,"Bioenergy ",83.3,16.7,91.7,0.0282
+11,"Bioengineering ",58,42,88.3,0.542
+11,"Bioinformatics ",80,20,33.3,0.0352
+11,"Biology ",42.5,57.5,95.6,1.92
+11,"Biophysics & Computnl Biology ",78.6,21.4,37.1,0.164
+11,"Broadcast Journalism ",35,65,94.9,0.368
+11,"Business Administration ",56.8,43.2,27.3,0.103
+11,"Business Administration (MBA) ",73,27,72.1,0.807
+11,"Business Process Management ",58.1,41.9,93.5,0.0728
+11,"Cell and Developmental Biology ",47.4,52.6,42.1,0.0892
+11,"Cell and Structural Biology ",100,0,0,0.00469
+11,"Chemical Engineering ",66.9,33.1,80.7,1.51
+11,"Chemical Physics ",80,20,60,0.0235
+11,"Chemistry ",61,39,81.7,1.77
+11,"Civil Engineering ",75.8,24.1,71,2.76
+11,"Classical Philology ",62.5,37.5,100,0.0188
+11,"Classics ",57.7,42.3,96.2,0.061
+11,"Communication ",40.9,59,93.5,2.03
+11,"Communications ",42.1,57.9,55.3,0.0892
+11,"Communications and Media ",33.3,66.7,53.3,0.0352
+11,"Community Health ",25.6,74,98,1.42
+11,"Comparative Literature ",31.2,62.5,71.9,0.0751
+11,"Computer Engineering ",92.6,7.4,76.2,1.43
+11,"Computer Science ",88.7,11.3,60.5,2.88
+11,"Crafts ",16.7,83.3,91.7,0.0282
+11,"Creative Writing ",43.8,56.2,100,0.0376
+11,"Crop Sciences ",74.2,25.8,79.3,0.465
+11,"Curric Unassigned ",56.5,43.5,90.1,2.42
+11,"Curriculum and Instruction ",18.2,81.8,80.2,0.284
+11,"Dance ",8.7,91.3,100,0.162
+11,"E Asian Languages & Cultures ",34,66,76.7,0.242
+11,"Early Childhood Education ",0,100,97.4,0.0915
+11,"Earth Systems, Env, & Society ",50.9,49.1,93.5,0.253
+11,"Earth, Society, & Environment ",64,36,88,0.0587
+11,"Ecol, Evol, Conservation Biol ",43.5,56.5,91.3,0.054
+11,"Economics ",67.1,32.9,42.8,2.18
+11,"Ed Organization and Leadership ",41.3,58.7,98.6,0.336
+11,"Educational Policy Studies ",37,63,94.1,0.317
+11,"Educational Psychology ",22.8,77.2,60.8,0.185
+11,"Electrical & Computer Engr ",87.6,12.4,45.8,1.12
+11,"Electrical Engineering ",88.2,11.8,61.5,2.65
+11,"Elementary Education ",7.19,92.5,97.1,0.718
+11,"Engineering Mechanics ",88.7,11.3,82.4,0.333
+11,"Engineering Physics ",90.8,9.21,88.8,0.357
+11,"English ",30.7,69.2,97.4,1.64
+11,"Entomology ",42.9,57.1,74.3,0.0821
+11,"Environ Engr in Civil Engr ",41.7,58.3,46.9,0.225
+11,"Environ Science in Civil Engr ",57.1,42.9,42.9,0.0164
+11,"European Union Studies ",25,75,100,0.0188
+11,"Finance ",67.7,32.3,64.4,1.55
+11,"Financial Engineering ",75.4,24.6,21.7,0.162
+11,"Food Science & Human Nutrition ",21.7,78.3,79.9,1.16
+11,"French ",29.9,70.1,90.9,0.181
+11,"Gender and Women's Studies ",18.8,81.2,100,0.0376
+11,"General Curriculum ",51.9,48.1,100,0.0634
+11,"General Engineering ",79.9,20.1,88,0.901
+11,"Geography ",69.8,30.2,73,0.148
+11,"Geology ",58.5,41.5,81.5,0.153
+11,"German ",43.8,56.2,62.5,0.0376
+11,"Germanic Lang & Lit ",28.6,71.4,100,0.0329
+11,"Global Studies ",28.9,71.1,92,0.617
+11,"Graphic Design ",38.6,61.4,98.6,0.164
+11,"Health ",23.7,76.3,100,0.326
+11,"Health Communication ",0,100,100,0.00235
+11,"History ",63.5,36.3,96.2,1.24
+11,"History of Art ",4.65,95.3,90.7,0.101
+11,"Horticulture ",63.6,36.4,97,0.0775
+11,"Human & Community Development ",25,75,92.9,0.0657
+11,"Human Development & Family St ",7.34,92.7,99.1,0.512
+11,"Human Factors ",100,0,100,0.00235
+11,"Human Res & Industrial Rels ",29.3,70.7,67.5,0.448
+11,"Human Resource Education ",43.2,56.8,60.8,0.174
+11,"Individual Plans of Study ",80,20,100,0.0117
+11,"Industrial Design ",46.2,53.8,77.8,0.275
+11,"Industrial Engineering ",74.3,25.7,50.9,0.53
+11,"Informatics ",100,0,100,0.00469
+11,"Information Sys & Info Tech ",80,20,91.4,0.0821
+11,"Instrumental Music ",44.9,55.1,92.1,0.209
+11,"Integrative Biology ",44.2,55.8,95.2,1.03
+11,"Interdisciplinary ",60,40,100,0.0235
+11,"International Studies ",25.5,72.3,83,0.11
+11,"Italian ",50,50,83.3,0.0141
+11,"Jazz Performance ",85.2,14.8,100,0.0634
+11,"Journalism ",30.8,69.2,84.6,0.0305
+11,"Kinesiology ",41.7,58.2,95.1,1.52
+11,"Landscape Architecture ",44.9,55.1,72.9,0.277
+11,"LAS - Undeclared ",39,61,99.4,0.415
+11,"Latin American Studies ",50,50,91.7,0.0282
+11,"Latina/Latino Studies ",37.5,62.5,100,0.0188
+11,"Law ",55.1,44.9,83.8,1.71
+11,"Library & Information Science ",28.1,71.9,92.4,0.744
+11,"Linguistics ",39.8,60.2,73.8,0.242
+11,"Management ",51.3,48.7,96.7,0.352
+11,"Marketing ",35.1,64.9,94.6,0.481
+11,"Materials Science & Engr ",77.3,22.7,69.5,1.28
+11,"Math & Computer Science ",88.9,11.1,69.4,0.169
+11,"Mathematics ",60.6,39.4,61.8,1.51
+11,"Mechanical Engineering ",87.9,11.9,73,2.48
+11,"Media and Cinema Studies ",50,50,91.5,0.277
+11,"Media Studies ",16.7,83.3,83.3,0.0282
+11,"Microbiology ",35,65,71.7,0.141
+11,"Molecular & Integrative Physi ",48.4,51.6,67.7,0.0728
+11,"Molecular and Cellular Biology ",52.8,47.2,95,2.47
+11,"Molecular&Cell Bio-undeclared ",60.5,39.5,47.4,0.0892
+11,"Music ",48.3,51.2,62.1,0.812
+11,"Music Composition ",66.7,33.3,88.9,0.0211
+11,"Music Education ",47.6,52.4,100,0.444
+11,"Music History ",40,60,100,0.0117
+11,"Musicology ",47.4,52.6,68.4,0.0446
+11,"Natural Res & Env Sciences ",57.7,42.3,78.2,0.183
+11,"Natural Resrcs & Environ Sci ",51.9,48.1,91.5,0.552
+11,"Neuroscience ",45,55,80,0.141
+11,"New Media ",33.3,66.7,95.8,0.0563
+11,"News-Editorial ",27.2,72.8,97,0.397
+11,"Nondegree-CE ",28.8,71.2,100,0.244
+11,"Nuclear Engineering ",83.1,16.9,84.7,0.138
+11,"Nuclear, Plasma, Radiolgc Engr ",88,12,78.5,0.491
+11,"Nutritional Sciences ",28.6,71.4,81.6,0.115
+11,"Open Studies ",50,50,100,0.0141
+11,"Painting ",25.6,74.4,93,0.101
+11,"Philosophy ",76.7,23.3,93.8,0.303
+11,"Photography ",26.2,73.8,100,0.0986
+11,"Physics ",86,14,62.9,1.19
+11,"Plant Biology ",39,61,85.4,0.0962
+11,"Plant Pathology ",0,100,0,0.00235
+11,"Political Science ",61,39,94.9,1.94
+11,"Portuguese ",50,50,50,0.00939
+11,"Pre-Early Chld/Elem Ed/Spec Ed ",6.67,93.3,98.9,0.634
+11,"Professional Pilot ",96.2,3.85,100,0.061
+11,"Psychology ",31.6,68.2,89,3.39
+11,"Public Health ",26.7,73.3,90,0.0704
+11,"Recreation, Sport, and Tourism ",64.7,35.3,92,0.878
+11,"Regional Planning ",56.5,43.5,43.5,0.054
+11,"Rehabilitation ",30,70,100,0.0235
+11,"Religion ",63.2,36.8,100,0.0446
+11,"Religious Studies ",20,80,100,0.0117
+11,"Rhetoric ",45.8,54.2,100,0.251
+11,"Russian & E European Studies ",50,50,100,0.00469
+11,"Russian Lang & Literature ",33.3,66.7,66.7,0.00704
+11,"Russian, E Eur, Eurasian St ",50,50,100,0.0141
+11,"Sculpture ",66.7,33.3,83.3,0.0141
+11,"Secondary & Continuing Educ ",28,72,36,0.0587
+11,"Secondary Education ",25,75,100,0.0188
+11,"Slavic Languages & Literature ",13.3,86.7,60,0.0352
+11,"Social Work ",13.2,86.8,95.4,0.873
+11,"Sociology ",39.3,60.7,91.8,0.77
+11,"Spanish ",24.5,75.5,93.6,0.479
+11,"Special Education ",12.1,87.9,96.2,0.31
+11,"Speech & Hearing Science ",4.14,95.9,97.8,0.85
+11,"Speech Communication ",46.2,53.8,84.6,0.0305
+11,"Statistics ",57.3,42.7,55.5,0.516
+11,"Statistics & Computer Science ",68.8,31.2,50,0.0376
+11,"Supply Chain Management ",54,46,94,0.117
+11,"Systems & Entrepreneurial Engr ",68.4,31.6,47.4,0.0446
+11,"Taxation ",28.6,71.4,81,0.0493
+11,"Teaching of Biological Science ",100,0,100,0.00235
+11,"Teaching of English Sec Lang ",16.3,83.7,57.1,0.115
+11,"Teaching of French ",0,100,100,0.00469
+11,"Teaching of German ",0,100,100,0.00235
+11,"Teaching of Latin ",0,100,100,0.00469
+11,"Teaching of Mathematics ",83.3,16.7,100,0.0141
+11,"Teaching of Physics ",66.7,33.3,100,0.00704
+11,"Teaching of Spanish ",11.5,88.5,100,0.061
+11,"Technical Systems Management ",92.3,7.69,91.8,0.458
+11,"Technology Management ",69.1,29.6,17.3,0.19
+11,"Theatre ",44.6,55.4,93.1,0.411
+11,"Theoretical & Applied Mechans ",78.7,21.3,48.9,0.11
+11,"Undeclared ",54.8,45.2,91.2,6.87
+11,"Urban Planning ",58.1,41.9,83.9,0.364
+11,"Veterinary Medicine ",20.1,79.7,99.8,1.16
+11,"VMS - Comparative Biosciences ",50,50,100,0.00469
+11,"VMS - Pathobiology ",44.4,55.6,77.8,0.0211
+11,"VMS - Veterinary Biosciences ",38.5,61.5,61.5,0.0305
+11,"VMS - Veterinary Pathobiology ",63.6,36.4,72.7,0.0258
+11,"VMS-Veterinary Clinical Medcne ",23.3,76.7,93.3,0.0704
+11,"Voice ",23.3,76.7,96.7,0.0704
+12,"Accountancy ",50.4,49.6,71.1,3.19
+12,"Actuarial Science ",58.7,41.3,66,0.672
+12,"Advertising ",28.1,71.9,88.5,1.49
+12,"Aerospace Engineering ",85.7,14.3,79.8,1.14
+12,"African American Studies ",45.5,54.5,90.9,0.0257
+12,"African Studies ",75,25,75,0.00933
+12,"Agr & Consumer Economics ",66.1,33.9,86.2,1.5
+12,"Agr & Environmental Cmc & Educ ",21.1,78.9,94.7,0.0443
+12,"Agr Engineering & Agr Science ",75,25,100,0.00933
+12,"Agric Leadership & Sci Educ ",51.2,48.8,95.3,0.1
+12,"Agricultural & Applied Econ ",46.3,53.7,40.7,0.126
+12,"Agricultural & Biological Engr ",72.9,27.1,73.6,0.602
+12,"Agricultural Communications ",21.1,78.9,100,0.0443
+12,"Agricultural Education ",20,80,100,0.0117
+12,"Agricultural Engineering ",100,0,50,0.00466
+12,"Agricultural Production ",55.6,44.4,77.8,0.021
+12,"Animal Sciences ",24.4,75.6,93.2,1.37
+12,"Anthropology ",30.5,69.5,91.6,0.527
+12,"Applied Mathematics ",48.4,51.6,16.1,0.0723
+12,"Architectural Studies ",56.8,43.2,81.1,1.12
+12,"Architecture ",59.2,40.8,76,0.457
+12,"Art and Design ",33.3,66.7,79.5,0.0909
+12,"Art Education ",23.9,76.1,87.3,0.166
+12,"Art Foundation ",26,74,83.7,0.287
+12,"Art History ",12.5,87.5,70.8,0.056
+12,"Asian Studies ",83.3,16.7,83.3,0.014
+12,"Astronomy ",64.1,35.9,76.6,0.149
+12,"Athletic Training ",0,100,100,0.00233
+12,"Atmospheric Sciences ",59.8,40.2,88.9,0.273
+12,"Audiology ",18.8,81.2,100,0.0373
+12,"Aviation Human Factors ",92.3,7.69,100,0.0909
+12,"Biochemistry ",62.1,37.9,75.9,0.522
+12,"Bioenergy ",77.8,22.2,77.8,0.021
+12,"Bioengineering ",56,44,88,0.604
+12,"Bioinformatics ",63.6,36.4,72.7,0.0257
+12,"Biology ",43.6,56.4,94.3,1.63
+12,"Biophysics & Computnl Biology ",79.1,20.9,38.8,0.156
+12,"Broadcast Journalism ",38.3,61.7,96,0.347
+12,"Business Administration ",53.2,46.8,27.7,0.11
+12,"Business Administration (MBA) ",70.3,29.7,72.6,0.935
+12,"Business Process Management ",59.4,40.6,90.6,0.0746
+12,"Cell and Developmental Biology ",48.7,51.3,35.9,0.0909
+12,"Chemical Engineering ",67.5,32.5,81.4,1.53
+12,"Chemical Physics ",77.8,22.2,66.7,0.021
+12,"Chemistry ",61.8,38.2,79.1,1.87
+12,"Civil Engineering ",75.8,24.2,67.9,2.89
+12,"Classical Philology ",55.6,44.4,100,0.021
+12,"Classics ",52,48,92,0.0583
+12,"Communication ",41.9,58,92.1,2.04
+12,"Communications ",41.4,58.6,55.2,0.0676
+12,"Communications and Media ",38.1,61.9,52.4,0.049
+12,"Community Health ",27.7,72.3,98.2,1.57
+12,"Comparative Literature ",44.4,55.6,70.4,0.063
+12,"Computer Engineering ",91.1,8.9,75.5,1.63
+12,"Computer Science ",88.4,11.6,58.4,3.23
+12,"Crafts ",21.4,78.6,85.7,0.0326
+12,"Creative Writing ",25,75,100,0.0373
+12,"Crop Sciences ",71.9,28.1,80.3,0.532
+12,"Curric Unassigned ",57.8,42.2,89,2.15
+12,"Curriculum and Instruction ",21.2,78.8,81.4,0.264
+12,"Dance ",13,87,98.1,0.126
+12,"E Asian Languages & Cultures ",39.8,60.2,72,0.217
+12,"Early Childhood Education ",3.33,96.7,96.7,0.07
+12,"Earth Systems, Env, & Society ",55.6,44.4,97.2,0.0839
+12,"Earth, Soc, Env Sustainability ",57.4,41,91.8,0.142
+12,"Earth, Society, & Environment ",55.1,44.9,89.8,0.114
+12,"East Asian Studies ",16.7,83.3,16.7,0.014
+12,"Ecol, Evol, Conservation Biol ",32.3,67.7,96.8,0.0723
+12,"Economics ",66.7,33.3,42.1,2.26
+12,"Ed Organization and Leadership ",35.9,64.1,98.2,0.396
+12,"Educ Voc Tech ",0,100,100,0.00233
+12,"Education ",0,100,100,0.00233
+12,"Educational Policy Studies ",41,59,90.7,0.375
+12,"Educational Psychology ",25.4,74.6,60.6,0.166
+12,"Electrical & Computer Engr ",86.7,13.3,41.9,1.1
+12,"Electrical Engineering ",87.8,12.2,63.5,2.71
+12,"Elementary Education ",8.15,91.9,97,0.63
+12,"Engineering Mechanics ",90.2,9.84,76.2,0.284
+12,"Engineering Physics ",89.3,10.7,87,0.413
+12,"Engineering Undesignated ",0,100,0,0.00233
+12,"English ",31,68.8,97.4,1.46
+12,"Entomology ",41.7,58.3,72.2,0.0839
+12,"Environ Engr in Civil Engr ",48.4,51.6,48.4,0.212
+12,"Environ Science in Civil Engr ",42.9,57.1,42.9,0.0163
+12,"European Union Studies ",50,50,100,0.0187
+12,"Finance ",64.6,35.4,62.4,1.53
+12,"Financial Engineering ",67,33,19,0.233
+12,"Food Science & Human Nutrition ",23.4,76.6,79.3,1.21
+12,"French ",28.1,71.9,81.2,0.149
+12,"Gender and Women's Studies ",27.3,72.7,100,0.0257
+12,"General Curriculum ",59.5,40.5,97.6,0.0979
+12,"General Engineering ",73.4,26.6,88.3,0.858
+12,"Geography ",72.4,27.6,72.4,0.135
+12,"Geology ",58.9,41.1,86.3,0.17
+12,"German ",41.2,58.8,58.8,0.0396
+12,"Germanic Lang & Lit ",43.8,56.2,100,0.0373
+12,"Global Studies ",26.5,73.5,92.9,0.625
+12,"Graphic Design ",35.5,64.5,97.4,0.177
+12,"Health ",26.8,73.2,100,0.357
+12,"History ",60.5,39.1,95.5,1.09
+12,"History of Art ",8.82,91.2,82.4,0.0793
+12,"Horticulture ",61.8,38.2,100,0.0793
+12,"Human & Community Development ",20,80,100,0.0583
+12,"Human Development & Family St ",8.89,91.1,98.7,0.525
+12,"Human Res & Industrial Rels ",33.3,66.7,69.7,0.455
+12,"Human Resource Education ",35.7,64.3,46.4,0.131
+12,"Individual Plans of Study ",50,50,75,0.00933
+12,"Industrial Design ",50,50,74.5,0.257
+12,"Industrial Engineering ",76.9,23.1,54.5,0.625
+12,"Informatics ",100,0,50,0.0326
+12,"Information Sys & Info Tech ",82.4,17.6,97.1,0.0793
+12,"Instrumental Music ",46.7,53.3,90.7,0.175
+12,"Integrative Biology ",40.2,59.8,97.1,1.03
+12,"Interdisciplinary ",0,100,100,0.00933
+12,"International Studies ",50,50,66.7,0.014
+12,"Italian ",42.9,57.1,85.7,0.0163
+12,"Jazz Performance ",90.9,9.09,100,0.0513
+12,"Journalism ",81.8,18.2,63.6,0.0257
+12,"Kinesiology ",43,57,95.1,1.48
+12,"Landscape Architecture ",44.2,55.8,58.4,0.264
+12,"LAS - Undeclared ",32.6,67.4,99.4,0.415
+12,"Latin American Studies ",27.3,72.7,90.9,0.0257
+12,"Latina/Latino Studies ",33.3,66.7,100,0.014
+12,"Law ",52.9,47.1,77.9,1.75
+12,"Library & Information Science ",28.1,71.9,91.7,0.73
+12,"Linguistics ",33.3,66.7,73.3,0.245
+12,"Management ",45,55,94.6,0.259
+12,"Marketing ",36.4,63.6,94.4,0.462
+12,"Materials Science & Engr ",75.8,24.2,65.8,1.33
+12,"Math & Computer Science ",82.6,17.4,62.8,0.201
+12,"Mathematics ",63.5,36.5,55.1,1.43
+12,"Mechanical Engineering ",86.1,13.8,70.4,2.59
+12,"Media and Cinema Studies ",50,49.1,92.1,0.266
+12,"Media Studies ",0,100,100,0.00466
+12,"Microbiology ",42.4,57.6,67.8,0.138
+12,"Molecular & Integrative Physi ",50,50,68.8,0.0373
+12,"Molecular and Cellular Biology ",51.1,48.9,95.1,2.6
+12,"Molecular&Cell Bio-undeclared ",39.4,60.6,51.5,0.077
+12,"Music ",48,51.7,59.3,0.767
+12,"Music Composition ",100,0,100,0.0117
+12,"Music Education ",46.4,53.6,100,0.387
+12,"Music History ",33.3,66.7,100,0.007
+12,"Musicology ",52.6,47.4,84.2,0.0443
+12,"Natural Res & Env Sciences ",66.2,33.8,80,0.187
+12,"Natural Resrcs & Environ Sci ",52.3,47.7,86.7,0.562
+12,"Neuroscience ",49.1,50.9,80,0.128
+12,"New Media ",44.4,55.6,94.4,0.042
+12,"News-Editorial ",29.2,70.8,95.8,0.392
+12,"Nondegree-CE ",28.1,71.9,100,0.133
+12,"Nuclear Engineering ",80.8,19.2,73.1,0.0606
+12,"Nuclear, Plasma, Radiolgc Engr ",87.9,12.1,80.5,0.539
+12,"Nutritional Sciences ",28.9,71.1,81.6,0.0886
+12,"Open Studies ",25,75,100,0.00933
+12,"Painting ",31.6,68.4,92.1,0.0886
+12,"Philosophy ",72.5,26.7,96.7,0.28
+12,"Photography ",37.5,62.5,100,0.0746
+12,"Physics ",86.5,13.5,62.4,1.26
+12,"Plant Biology ",48.8,51.2,81.4,0.1
+12,"Political Science ",64,35.9,94.5,1.75
+12,"Portuguese ",25,75,50,0.00933
+12,"Pre-Early Chld/Elem Ed/Spec Ed ",5.77,94.2,98.8,0.606
+12,"Professional Pilot ",88.9,11.1,100,0.021
+12,"Psychology ",30,70,89.7,3.24
+12,"Public Health ",25,75,93.8,0.0746
+12,"Recreation, Sport, and Tourism ",61,39,91.1,0.86
+12,"Regional Planning ",61.9,38.1,42.9,0.049
+12,"Rehabilitation ",20,80,100,0.0117
+12,"Religion ",65,35,95,0.0466
+12,"Religious Studies ",50,50,100,0.00466
+12,"Rhetoric ",37.6,62.4,98.9,0.217
+12,"Russian & E European Studies ",0,100,100,0.00233
+12,"Russian Lang & Literature ",40,60,80,0.0117
+12,"Russian, E Eur, Eurasian St ",50,50,100,0.014
+12,"Sculpture ",25,75,100,0.0187
+12,"Secondary & Continuing Educ ",23.5,76.5,52.9,0.0396
+12,"Secondary Education ",56.2,43.8,100,0.0373
+12,"Slavic Languages & Literature ",12.5,87.5,68.8,0.0373
+12,"Social Work ",13.5,86.5,95.5,0.828
+12,"Sociology ",37.6,62.4,87.6,0.658
+12,"Spanish ",25,75,90.4,0.438
+12,"Special Education ",11.6,88.4,97.3,0.343
+12,"Speech & Hearing Science ",3.15,96.9,98.2,0.888
+12,"Speech Communication ",100,0,83.3,0.014
+12,"Statistics ",62.2,37.8,48.1,0.63
+12,"Statistics & Computer Science ",70,30,55,0.0466
+12,"Supply Chain Management ",56.9,43.1,96.6,0.135
+12,"Systems & Entrepreneurial Engr ",70,30,60,0.0466
+12,"Taxation ",25.8,74.2,93.5,0.0723
+12,"Teaching of Chemistry ",50,50,100,0.00466
+12,"Teaching of English Sec Lang ",18.4,81.6,59.2,0.114
+12,"Teaching of French ",0,100,100,0.0187
+12,"Teaching of German ",0,100,100,0.00233
+12,"Teaching of Mathematics ",100,0,100,0.007
+12,"Teaching of Physics ",0,100,100,0.00233
+12,"Teaching of Spanish ",16.7,83.3,100,0.042
+12,"Technical Systems Management ",91.1,8.88,92.1,0.499
+12,"Technology Management ",67.6,32.4,26.5,0.238
+12,"Theatre ",46.2,53.8,94.4,0.455
+12,"Theoretical & Applied Mechans ",76.5,23.5,41.2,0.119
+12,"Undeclared ",58.9,41.1,91,6.92
+12,"Urban Planning ",53.8,46.2,74.8,0.333
+12,"Veterinary Medicine ",20,79.6,100,1.13
+12,"VMS - Comparative Biosciences ",38.5,61.5,76.9,0.0303
+12,"VMS - Pathobiology ",41.7,58.3,83.3,0.028
+12,"VMS - Veterinary Pathobiology ",83.3,16.7,66.7,0.014
+12,"VMS-Veterinary Clinical Medcne ",30.8,69.2,100,0.0606
+12,"Voice ",17.6,82.4,97.1,0.0793
